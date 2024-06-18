@@ -1,0 +1,1651 @@
+area_id,area_name,parameter_id,parameter_description,datetime,value_type,value_text
+501520,Ampana,hu,Humidity,202406180000,,90
+501520,Ampana,hu,Humidity,202406180600,,80
+501520,Ampana,hu,Humidity,202406181200,,95
+501520,Ampana,hu,Humidity,202406181800,,90
+501520,Ampana,hu,Humidity,202406190000,,90
+501520,Ampana,hu,Humidity,202406190600,,90
+501520,Ampana,hu,Humidity,202406191200,,95
+501520,Ampana,hu,Humidity,202406191800,,90
+501520,Ampana,hu,Humidity,202406200000,,90
+501520,Ampana,hu,Humidity,202406200600,,75
+501520,Ampana,hu,Humidity,202406201200,,90
+501520,Ampana,hu,Humidity,202406201800,,85
+501520,Ampana,humax,Max humidity,202406181200,,95
+501520,Ampana,humax,Max humidity,202406191200,,95
+501520,Ampana,humax,Max humidity,202406201200,,90
+501520,Ampana,tmax,Max temperature,202406181200,,27
+501520,Ampana,tmax,Max temperature,202406181200,,80.6
+501520,Ampana,tmax,Max temperature,202406191200,,27
+501520,Ampana,tmax,Max temperature,202406191200,,80.6
+501520,Ampana,tmax,Max temperature,202406201200,,28
+501520,Ampana,tmax,Max temperature,202406201200,,82.4
+501520,Ampana,humin,Min humidity,202406181200,,80
+501520,Ampana,humin,Min humidity,202406191200,,80
+501520,Ampana,humin,Min humidity,202406201200,,75
+501520,Ampana,tmin,Min temperature,202406181200,,23
+501520,Ampana,tmin,Min temperature,202406181200,,73.4
+501520,Ampana,tmin,Min temperature,202406191200,,23
+501520,Ampana,tmin,Min temperature,202406191200,,73.4
+501520,Ampana,tmin,Min temperature,202406201200,,23
+501520,Ampana,tmin,Min temperature,202406201200,,73.4
+501520,Ampana,t,Temperature,202406180000,,25
+501520,Ampana,t,Temperature,202406180000,,77
+501520,Ampana,t,Temperature,202406180600,,27
+501520,Ampana,t,Temperature,202406180600,,80.6
+501520,Ampana,t,Temperature,202406181200,,24
+501520,Ampana,t,Temperature,202406181200,,75.2
+501520,Ampana,t,Temperature,202406181800,,24
+501520,Ampana,t,Temperature,202406181800,,75.2
+501520,Ampana,t,Temperature,202406190000,,25
+501520,Ampana,t,Temperature,202406190000,,77
+501520,Ampana,t,Temperature,202406190600,,25
+501520,Ampana,t,Temperature,202406190600,,77
+501520,Ampana,t,Temperature,202406191200,,24
+501520,Ampana,t,Temperature,202406191200,,75.2
+501520,Ampana,t,Temperature,202406191800,,23
+501520,Ampana,t,Temperature,202406191800,,73.4
+501520,Ampana,t,Temperature,202406200000,,26
+501520,Ampana,t,Temperature,202406200000,,78.8
+501520,Ampana,t,Temperature,202406200600,,27
+501520,Ampana,t,Temperature,202406200600,,80.6
+501520,Ampana,t,Temperature,202406201200,,24
+501520,Ampana,t,Temperature,202406201200,,75.2
+501520,Ampana,t,Temperature,202406201800,,23
+501520,Ampana,t,Temperature,202406201800,,73.4
+501520,Ampana,weather,Weather,202406180000,,1
+501520,Ampana,weather,Weather,202406180600,,95
+501520,Ampana,weather,Weather,202406181200,,0
+501520,Ampana,weather,Weather,202406181800,,60
+501520,Ampana,weather,Weather,202406190000,,60
+501520,Ampana,weather,Weather,202406190600,,95
+501520,Ampana,weather,Weather,202406191200,,3
+501520,Ampana,weather,Weather,202406191800,,1
+501520,Ampana,weather,Weather,202406200000,,1
+501520,Ampana,weather,Weather,202406200600,,1
+501520,Ampana,weather,Weather,202406201200,,1
+501520,Ampana,weather,Weather,202406201800,,1
+501520,Ampana,wd,Wind direction,202406180000,,292.5
+501520,Ampana,wd,Wind direction,202406180000,,WNW
+501520,Ampana,wd,Wind direction,202406180000,,29230
+501520,Ampana,wd,Wind direction,202406180600,,0
+501520,Ampana,wd,Wind direction,202406180600,,VARIABLE
+501520,Ampana,wd,Wind direction,202406180600,,000
+501520,Ampana,wd,Wind direction,202406181200,,112.5
+501520,Ampana,wd,Wind direction,202406181200,,ESE
+501520,Ampana,wd,Wind direction,202406181200,,11230
+501520,Ampana,wd,Wind direction,202406181800,,247.5
+501520,Ampana,wd,Wind direction,202406181800,,WSW
+501520,Ampana,wd,Wind direction,202406181800,,24730
+501520,Ampana,wd,Wind direction,202406190000,,67.5
+501520,Ampana,wd,Wind direction,202406190000,,ENE
+501520,Ampana,wd,Wind direction,202406190000,,6730
+501520,Ampana,wd,Wind direction,202406190600,,0
+501520,Ampana,wd,Wind direction,202406190600,,VARIABLE
+501520,Ampana,wd,Wind direction,202406190600,,000
+501520,Ampana,wd,Wind direction,202406191200,,112.5
+501520,Ampana,wd,Wind direction,202406191200,,ESE
+501520,Ampana,wd,Wind direction,202406191200,,11230
+501520,Ampana,wd,Wind direction,202406191800,,180
+501520,Ampana,wd,Wind direction,202406191800,,S
+501520,Ampana,wd,Wind direction,202406191800,,18000
+501520,Ampana,wd,Wind direction,202406200000,,90
+501520,Ampana,wd,Wind direction,202406200000,,E
+501520,Ampana,wd,Wind direction,202406200000,,9000
+501520,Ampana,wd,Wind direction,202406200600,,45
+501520,Ampana,wd,Wind direction,202406200600,,NE
+501520,Ampana,wd,Wind direction,202406200600,,4500
+501520,Ampana,wd,Wind direction,202406201200,,112.5
+501520,Ampana,wd,Wind direction,202406201200,,ESE
+501520,Ampana,wd,Wind direction,202406201200,,11230
+501520,Ampana,wd,Wind direction,202406201800,,202.5
+501520,Ampana,wd,Wind direction,202406201800,,SSW
+501520,Ampana,wd,Wind direction,202406201800,,20230
+501520,Ampana,ws,Wind speed,202406180000,,2
+501520,Ampana,ws,Wind speed,202406180000,,2.3015589
+501520,Ampana,ws,Wind speed,202406180000,,3.704
+501520,Ampana,ws,Wind speed,202406180000,,1.028888888
+501520,Ampana,ws,Wind speed,202406180600,,0
+501520,Ampana,ws,Wind speed,202406180600,,0
+501520,Ampana,ws,Wind speed,202406180600,,0
+501520,Ampana,ws,Wind speed,202406180600,,0
+501520,Ampana,ws,Wind speed,202406181200,,5
+501520,Ampana,ws,Wind speed,202406181200,,5.75389725
+501520,Ampana,ws,Wind speed,202406181200,,9.26
+501520,Ampana,ws,Wind speed,202406181200,,2.57222222
+501520,Ampana,ws,Wind speed,202406181800,,5
+501520,Ampana,ws,Wind speed,202406181800,,5.75389725
+501520,Ampana,ws,Wind speed,202406181800,,9.26
+501520,Ampana,ws,Wind speed,202406181800,,2.57222222
+501520,Ampana,ws,Wind speed,202406190000,,2
+501520,Ampana,ws,Wind speed,202406190000,,2.3015589
+501520,Ampana,ws,Wind speed,202406190000,,3.704
+501520,Ampana,ws,Wind speed,202406190000,,1.028888888
+501520,Ampana,ws,Wind speed,202406190600,,0
+501520,Ampana,ws,Wind speed,202406190600,,0
+501520,Ampana,ws,Wind speed,202406190600,,0
+501520,Ampana,ws,Wind speed,202406190600,,0
+501520,Ampana,ws,Wind speed,202406191200,,5
+501520,Ampana,ws,Wind speed,202406191200,,5.75389725
+501520,Ampana,ws,Wind speed,202406191200,,9.26
+501520,Ampana,ws,Wind speed,202406191200,,2.57222222
+501520,Ampana,ws,Wind speed,202406191800,,2
+501520,Ampana,ws,Wind speed,202406191800,,2.3015589
+501520,Ampana,ws,Wind speed,202406191800,,3.704
+501520,Ampana,ws,Wind speed,202406191800,,1.028888888
+501520,Ampana,ws,Wind speed,202406200000,,2
+501520,Ampana,ws,Wind speed,202406200000,,2.3015589
+501520,Ampana,ws,Wind speed,202406200000,,3.704
+501520,Ampana,ws,Wind speed,202406200000,,1.028888888
+501520,Ampana,ws,Wind speed,202406200600,,5
+501520,Ampana,ws,Wind speed,202406200600,,5.75389725
+501520,Ampana,ws,Wind speed,202406200600,,9.26
+501520,Ampana,ws,Wind speed,202406200600,,2.57222222
+501520,Ampana,ws,Wind speed,202406201200,,2
+501520,Ampana,ws,Wind speed,202406201200,,2.3015589
+501520,Ampana,ws,Wind speed,202406201200,,3.704
+501520,Ampana,ws,Wind speed,202406201200,,1.028888888
+501520,Ampana,ws,Wind speed,202406201800,,2
+501520,Ampana,ws,Wind speed,202406201800,,2.3015589
+501520,Ampana,ws,Wind speed,202406201800,,3.704
+501520,Ampana,ws,Wind speed,202406201800,,1.028888888
+501521,Bungku,hu,Humidity,202406180000,,75
+501521,Bungku,hu,Humidity,202406180600,,75
+501521,Bungku,hu,Humidity,202406181200,,70
+501521,Bungku,hu,Humidity,202406181800,,80
+501521,Bungku,hu,Humidity,202406190000,,80
+501521,Bungku,hu,Humidity,202406190600,,75
+501521,Bungku,hu,Humidity,202406191200,,75
+501521,Bungku,hu,Humidity,202406191800,,75
+501521,Bungku,hu,Humidity,202406200000,,75
+501521,Bungku,hu,Humidity,202406200600,,80
+501521,Bungku,hu,Humidity,202406201200,,75
+501521,Bungku,hu,Humidity,202406201800,,75
+501521,Bungku,humax,Max humidity,202406181200,,80
+501521,Bungku,humax,Max humidity,202406191200,,80
+501521,Bungku,humax,Max humidity,202406201200,,80
+501521,Bungku,tmax,Max temperature,202406181200,,28
+501521,Bungku,tmax,Max temperature,202406181200,,82.4
+501521,Bungku,tmax,Max temperature,202406191200,,28
+501521,Bungku,tmax,Max temperature,202406191200,,82.4
+501521,Bungku,tmax,Max temperature,202406201200,,27
+501521,Bungku,tmax,Max temperature,202406201200,,80.6
+501521,Bungku,humin,Min humidity,202406181200,,70
+501521,Bungku,humin,Min humidity,202406191200,,75
+501521,Bungku,humin,Min humidity,202406201200,,75
+501521,Bungku,tmin,Min temperature,202406181200,,24
+501521,Bungku,tmin,Min temperature,202406181200,,75.2
+501521,Bungku,tmin,Min temperature,202406191200,,26
+501521,Bungku,tmin,Min temperature,202406191200,,78.8
+501521,Bungku,tmin,Min temperature,202406201200,,26
+501521,Bungku,tmin,Min temperature,202406201200,,78.8
+501521,Bungku,t,Temperature,202406180000,,27
+501521,Bungku,t,Temperature,202406180000,,80.6
+501521,Bungku,t,Temperature,202406180600,,28
+501521,Bungku,t,Temperature,202406180600,,82.4
+501521,Bungku,t,Temperature,202406181200,,28
+501521,Bungku,t,Temperature,202406181200,,82.4
+501521,Bungku,t,Temperature,202406181800,,26
+501521,Bungku,t,Temperature,202406181800,,78.8
+501521,Bungku,t,Temperature,202406190000,,26
+501521,Bungku,t,Temperature,202406190000,,78.8
+501521,Bungku,t,Temperature,202406190600,,28
+501521,Bungku,t,Temperature,202406190600,,82.4
+501521,Bungku,t,Temperature,202406191200,,28
+501521,Bungku,t,Temperature,202406191200,,82.4
+501521,Bungku,t,Temperature,202406191800,,27
+501521,Bungku,t,Temperature,202406191800,,80.6
+501521,Bungku,t,Temperature,202406200000,,27
+501521,Bungku,t,Temperature,202406200000,,80.6
+501521,Bungku,t,Temperature,202406200600,,27
+501521,Bungku,t,Temperature,202406200600,,80.6
+501521,Bungku,t,Temperature,202406201200,,27
+501521,Bungku,t,Temperature,202406201200,,80.6
+501521,Bungku,t,Temperature,202406201800,,26
+501521,Bungku,t,Temperature,202406201800,,78.8
+501521,Bungku,weather,Weather,202406180000,,0
+501521,Bungku,weather,Weather,202406180600,,0
+501521,Bungku,weather,Weather,202406181200,,1
+501521,Bungku,weather,Weather,202406181800,,1
+501521,Bungku,weather,Weather,202406190000,,1
+501521,Bungku,weather,Weather,202406190600,,3
+501521,Bungku,weather,Weather,202406191200,,4
+501521,Bungku,weather,Weather,202406191800,,3
+501521,Bungku,weather,Weather,202406200000,,3
+501521,Bungku,weather,Weather,202406200600,,1
+501521,Bungku,weather,Weather,202406201200,,1
+501521,Bungku,weather,Weather,202406201800,,0
+501521,Bungku,wd,Wind direction,202406180000,,157.5
+501521,Bungku,wd,Wind direction,202406180000,,SSE
+501521,Bungku,wd,Wind direction,202406180000,,15730
+501521,Bungku,wd,Wind direction,202406180600,,135
+501521,Bungku,wd,Wind direction,202406180600,,SE
+501521,Bungku,wd,Wind direction,202406180600,,13500
+501521,Bungku,wd,Wind direction,202406181200,,135
+501521,Bungku,wd,Wind direction,202406181200,,SE
+501521,Bungku,wd,Wind direction,202406181200,,13500
+501521,Bungku,wd,Wind direction,202406181800,,180
+501521,Bungku,wd,Wind direction,202406181800,,S
+501521,Bungku,wd,Wind direction,202406181800,,18000
+501521,Bungku,wd,Wind direction,202406190000,,112.5
+501521,Bungku,wd,Wind direction,202406190000,,ESE
+501521,Bungku,wd,Wind direction,202406190000,,11230
+501521,Bungku,wd,Wind direction,202406190600,,135
+501521,Bungku,wd,Wind direction,202406190600,,SE
+501521,Bungku,wd,Wind direction,202406190600,,13500
+501521,Bungku,wd,Wind direction,202406191200,,135
+501521,Bungku,wd,Wind direction,202406191200,,SE
+501521,Bungku,wd,Wind direction,202406191200,,13500
+501521,Bungku,wd,Wind direction,202406191800,,180
+501521,Bungku,wd,Wind direction,202406191800,,S
+501521,Bungku,wd,Wind direction,202406191800,,18000
+501521,Bungku,wd,Wind direction,202406200000,,157.5
+501521,Bungku,wd,Wind direction,202406200000,,SSE
+501521,Bungku,wd,Wind direction,202406200000,,15730
+501521,Bungku,wd,Wind direction,202406200600,,135
+501521,Bungku,wd,Wind direction,202406200600,,SE
+501521,Bungku,wd,Wind direction,202406200600,,13500
+501521,Bungku,wd,Wind direction,202406201200,,157.5
+501521,Bungku,wd,Wind direction,202406201200,,SSE
+501521,Bungku,wd,Wind direction,202406201200,,15730
+501521,Bungku,wd,Wind direction,202406201800,,180
+501521,Bungku,wd,Wind direction,202406201800,,S
+501521,Bungku,wd,Wind direction,202406201800,,18000
+501521,Bungku,ws,Wind speed,202406180000,,5
+501521,Bungku,ws,Wind speed,202406180000,,5.75389725
+501521,Bungku,ws,Wind speed,202406180000,,9.26
+501521,Bungku,ws,Wind speed,202406180000,,2.57222222
+501521,Bungku,ws,Wind speed,202406180600,,15
+501521,Bungku,ws,Wind speed,202406180600,,17.26169175
+501521,Bungku,ws,Wind speed,202406180600,,27.78
+501521,Bungku,ws,Wind speed,202406180600,,7.71666666
+501521,Bungku,ws,Wind speed,202406181200,,10
+501521,Bungku,ws,Wind speed,202406181200,,11.5077945
+501521,Bungku,ws,Wind speed,202406181200,,18.52
+501521,Bungku,ws,Wind speed,202406181200,,5.14444444
+501521,Bungku,ws,Wind speed,202406181800,,5
+501521,Bungku,ws,Wind speed,202406181800,,5.75389725
+501521,Bungku,ws,Wind speed,202406181800,,9.26
+501521,Bungku,ws,Wind speed,202406181800,,2.57222222
+501521,Bungku,ws,Wind speed,202406190000,,2
+501521,Bungku,ws,Wind speed,202406190000,,2.3015589
+501521,Bungku,ws,Wind speed,202406190000,,3.704
+501521,Bungku,ws,Wind speed,202406190000,,1.028888888
+501521,Bungku,ws,Wind speed,202406190600,,10
+501521,Bungku,ws,Wind speed,202406190600,,11.5077945
+501521,Bungku,ws,Wind speed,202406190600,,18.52
+501521,Bungku,ws,Wind speed,202406190600,,5.14444444
+501521,Bungku,ws,Wind speed,202406191200,,10
+501521,Bungku,ws,Wind speed,202406191200,,11.5077945
+501521,Bungku,ws,Wind speed,202406191200,,18.52
+501521,Bungku,ws,Wind speed,202406191200,,5.14444444
+501521,Bungku,ws,Wind speed,202406191800,,5
+501521,Bungku,ws,Wind speed,202406191800,,5.75389725
+501521,Bungku,ws,Wind speed,202406191800,,9.26
+501521,Bungku,ws,Wind speed,202406191800,,2.57222222
+501521,Bungku,ws,Wind speed,202406200000,,5
+501521,Bungku,ws,Wind speed,202406200000,,5.75389725
+501521,Bungku,ws,Wind speed,202406200000,,9.26
+501521,Bungku,ws,Wind speed,202406200000,,2.57222222
+501521,Bungku,ws,Wind speed,202406200600,,15
+501521,Bungku,ws,Wind speed,202406200600,,17.26169175
+501521,Bungku,ws,Wind speed,202406200600,,27.78
+501521,Bungku,ws,Wind speed,202406200600,,7.71666666
+501521,Bungku,ws,Wind speed,202406201200,,10
+501521,Bungku,ws,Wind speed,202406201200,,11.5077945
+501521,Bungku,ws,Wind speed,202406201200,,18.52
+501521,Bungku,ws,Wind speed,202406201200,,5.14444444
+501521,Bungku,ws,Wind speed,202406201800,,5
+501521,Bungku,ws,Wind speed,202406201800,,5.75389725
+501521,Bungku,ws,Wind speed,202406201800,,9.26
+501521,Bungku,ws,Wind speed,202406201800,,2.57222222
+501522,Buol,hu,Humidity,202406180000,,90
+501522,Buol,hu,Humidity,202406180600,,70
+501522,Buol,hu,Humidity,202406181200,,95
+501522,Buol,hu,Humidity,202406181800,,95
+501522,Buol,hu,Humidity,202406190000,,90
+501522,Buol,hu,Humidity,202406190600,,90
+501522,Buol,hu,Humidity,202406191200,,100
+501522,Buol,hu,Humidity,202406191800,,95
+501522,Buol,hu,Humidity,202406200000,,95
+501522,Buol,hu,Humidity,202406200600,,80
+501522,Buol,hu,Humidity,202406201200,,100
+501522,Buol,hu,Humidity,202406201800,,95
+501522,Buol,humax,Max humidity,202406181200,,95
+501522,Buol,humax,Max humidity,202406191200,,100
+501522,Buol,humax,Max humidity,202406201200,,100
+501522,Buol,tmax,Max temperature,202406181200,,30
+501522,Buol,tmax,Max temperature,202406181200,,86
+501522,Buol,tmax,Max temperature,202406191200,,30
+501522,Buol,tmax,Max temperature,202406191200,,86
+501522,Buol,tmax,Max temperature,202406201200,,31
+501522,Buol,tmax,Max temperature,202406201200,,87.8
+501522,Buol,humin,Min humidity,202406181200,,70
+501522,Buol,humin,Min humidity,202406191200,,75
+501522,Buol,humin,Min humidity,202406201200,,70
+501522,Buol,tmin,Min temperature,202406181200,,23
+501522,Buol,tmin,Min temperature,202406181200,,73.4
+501522,Buol,tmin,Min temperature,202406191200,,23
+501522,Buol,tmin,Min temperature,202406191200,,73.4
+501522,Buol,tmin,Min temperature,202406201200,,23
+501522,Buol,tmin,Min temperature,202406201200,,73.4
+501522,Buol,t,Temperature,202406180000,,26
+501522,Buol,t,Temperature,202406180000,,78.8
+501522,Buol,t,Temperature,202406180600,,30
+501522,Buol,t,Temperature,202406180600,,86
+501522,Buol,t,Temperature,202406181200,,25
+501522,Buol,t,Temperature,202406181200,,77
+501522,Buol,t,Temperature,202406181800,,23
+501522,Buol,t,Temperature,202406181800,,73.4
+501522,Buol,t,Temperature,202406190000,,25
+501522,Buol,t,Temperature,202406190000,,77
+501522,Buol,t,Temperature,202406190600,,26
+501522,Buol,t,Temperature,202406190600,,78.8
+501522,Buol,t,Temperature,202406191200,,24
+501522,Buol,t,Temperature,202406191200,,75.2
+501522,Buol,t,Temperature,202406191800,,23
+501522,Buol,t,Temperature,202406191800,,73.4
+501522,Buol,t,Temperature,202406200000,,26
+501522,Buol,t,Temperature,202406200000,,78.8
+501522,Buol,t,Temperature,202406200600,,29
+501522,Buol,t,Temperature,202406200600,,84.2
+501522,Buol,t,Temperature,202406201200,,25
+501522,Buol,t,Temperature,202406201200,,77
+501522,Buol,t,Temperature,202406201800,,23
+501522,Buol,t,Temperature,202406201800,,73.4
+501522,Buol,weather,Weather,202406180000,,1
+501522,Buol,weather,Weather,202406180600,,1
+501522,Buol,weather,Weather,202406181200,,0
+501522,Buol,weather,Weather,202406181800,,1
+501522,Buol,weather,Weather,202406190000,,1
+501522,Buol,weather,Weather,202406190600,,95
+501522,Buol,weather,Weather,202406191200,,3
+501522,Buol,weather,Weather,202406191800,,3
+501522,Buol,weather,Weather,202406200000,,3
+501522,Buol,weather,Weather,202406200600,,60
+501522,Buol,weather,Weather,202406201200,,3
+501522,Buol,weather,Weather,202406201800,,1
+501522,Buol,wd,Wind direction,202406180000,,202.5
+501522,Buol,wd,Wind direction,202406180000,,SSW
+501522,Buol,wd,Wind direction,202406180000,,20230
+501522,Buol,wd,Wind direction,202406180600,,180
+501522,Buol,wd,Wind direction,202406180600,,S
+501522,Buol,wd,Wind direction,202406180600,,18000
+501522,Buol,wd,Wind direction,202406181200,,180
+501522,Buol,wd,Wind direction,202406181200,,S
+501522,Buol,wd,Wind direction,202406181200,,18000
+501522,Buol,wd,Wind direction,202406181800,,180
+501522,Buol,wd,Wind direction,202406181800,,S
+501522,Buol,wd,Wind direction,202406181800,,18000
+501522,Buol,wd,Wind direction,202406190000,,202.5
+501522,Buol,wd,Wind direction,202406190000,,SSW
+501522,Buol,wd,Wind direction,202406190000,,20230
+501522,Buol,wd,Wind direction,202406190600,,0
+501522,Buol,wd,Wind direction,202406190600,,VARIABLE
+501522,Buol,wd,Wind direction,202406190600,,000
+501522,Buol,wd,Wind direction,202406191200,,225
+501522,Buol,wd,Wind direction,202406191200,,SW
+501522,Buol,wd,Wind direction,202406191200,,22500
+501522,Buol,wd,Wind direction,202406191800,,202.5
+501522,Buol,wd,Wind direction,202406191800,,SSW
+501522,Buol,wd,Wind direction,202406191800,,20230
+501522,Buol,wd,Wind direction,202406200000,,225
+501522,Buol,wd,Wind direction,202406200000,,SW
+501522,Buol,wd,Wind direction,202406200000,,22500
+501522,Buol,wd,Wind direction,202406200600,,45
+501522,Buol,wd,Wind direction,202406200600,,NE
+501522,Buol,wd,Wind direction,202406200600,,4500
+501522,Buol,wd,Wind direction,202406201200,,202.5
+501522,Buol,wd,Wind direction,202406201200,,SSW
+501522,Buol,wd,Wind direction,202406201200,,20230
+501522,Buol,wd,Wind direction,202406201800,,180
+501522,Buol,wd,Wind direction,202406201800,,S
+501522,Buol,wd,Wind direction,202406201800,,18000
+501522,Buol,ws,Wind speed,202406180000,,5
+501522,Buol,ws,Wind speed,202406180000,,5.75389725
+501522,Buol,ws,Wind speed,202406180000,,9.26
+501522,Buol,ws,Wind speed,202406180000,,2.57222222
+501522,Buol,ws,Wind speed,202406180600,,5
+501522,Buol,ws,Wind speed,202406180600,,5.75389725
+501522,Buol,ws,Wind speed,202406180600,,9.26
+501522,Buol,ws,Wind speed,202406180600,,2.57222222
+501522,Buol,ws,Wind speed,202406181200,,2
+501522,Buol,ws,Wind speed,202406181200,,2.3015589
+501522,Buol,ws,Wind speed,202406181200,,3.704
+501522,Buol,ws,Wind speed,202406181200,,1.028888888
+501522,Buol,ws,Wind speed,202406181800,,5
+501522,Buol,ws,Wind speed,202406181800,,5.75389725
+501522,Buol,ws,Wind speed,202406181800,,9.26
+501522,Buol,ws,Wind speed,202406181800,,2.57222222
+501522,Buol,ws,Wind speed,202406190000,,5
+501522,Buol,ws,Wind speed,202406190000,,5.75389725
+501522,Buol,ws,Wind speed,202406190000,,9.26
+501522,Buol,ws,Wind speed,202406190000,,2.57222222
+501522,Buol,ws,Wind speed,202406190600,,0
+501522,Buol,ws,Wind speed,202406190600,,0
+501522,Buol,ws,Wind speed,202406190600,,0
+501522,Buol,ws,Wind speed,202406190600,,0
+501522,Buol,ws,Wind speed,202406191200,,2
+501522,Buol,ws,Wind speed,202406191200,,2.3015589
+501522,Buol,ws,Wind speed,202406191200,,3.704
+501522,Buol,ws,Wind speed,202406191200,,1.028888888
+501522,Buol,ws,Wind speed,202406191800,,5
+501522,Buol,ws,Wind speed,202406191800,,5.75389725
+501522,Buol,ws,Wind speed,202406191800,,9.26
+501522,Buol,ws,Wind speed,202406191800,,2.57222222
+501522,Buol,ws,Wind speed,202406200000,,5
+501522,Buol,ws,Wind speed,202406200000,,5.75389725
+501522,Buol,ws,Wind speed,202406200000,,9.26
+501522,Buol,ws,Wind speed,202406200000,,2.57222222
+501522,Buol,ws,Wind speed,202406200600,,2
+501522,Buol,ws,Wind speed,202406200600,,2.3015589
+501522,Buol,ws,Wind speed,202406200600,,3.704
+501522,Buol,ws,Wind speed,202406200600,,1.028888888
+501522,Buol,ws,Wind speed,202406201200,,2
+501522,Buol,ws,Wind speed,202406201200,,2.3015589
+501522,Buol,ws,Wind speed,202406201200,,3.704
+501522,Buol,ws,Wind speed,202406201200,,1.028888888
+501522,Buol,ws,Wind speed,202406201800,,5
+501522,Buol,ws,Wind speed,202406201800,,5.75389725
+501522,Buol,ws,Wind speed,202406201800,,9.26
+501522,Buol,ws,Wind speed,202406201800,,2.57222222
+501523,Donggala,hu,Humidity,202406180000,,90
+501523,Donggala,hu,Humidity,202406180600,,80
+501523,Donggala,hu,Humidity,202406181200,,90
+501523,Donggala,hu,Humidity,202406181800,,95
+501523,Donggala,hu,Humidity,202406190000,,90
+501523,Donggala,hu,Humidity,202406190600,,90
+501523,Donggala,hu,Humidity,202406191200,,90
+501523,Donggala,hu,Humidity,202406191800,,95
+501523,Donggala,hu,Humidity,202406200000,,90
+501523,Donggala,hu,Humidity,202406200600,,80
+501523,Donggala,hu,Humidity,202406201200,,90
+501523,Donggala,hu,Humidity,202406201800,,95
+501523,Donggala,humax,Max humidity,202406181200,,95
+501523,Donggala,humax,Max humidity,202406191200,,95
+501523,Donggala,humax,Max humidity,202406201200,,95
+501523,Donggala,tmax,Max temperature,202406181200,,28
+501523,Donggala,tmax,Max temperature,202406181200,,82.4
+501523,Donggala,tmax,Max temperature,202406191200,,28
+501523,Donggala,tmax,Max temperature,202406191200,,82.4
+501523,Donggala,tmax,Max temperature,202406201200,,29
+501523,Donggala,tmax,Max temperature,202406201200,,84.2
+501523,Donggala,humin,Min humidity,202406181200,,80
+501523,Donggala,humin,Min humidity,202406191200,,80
+501523,Donggala,humin,Min humidity,202406201200,,75
+501523,Donggala,tmin,Min temperature,202406181200,,23
+501523,Donggala,tmin,Min temperature,202406181200,,73.4
+501523,Donggala,tmin,Min temperature,202406191200,,24
+501523,Donggala,tmin,Min temperature,202406191200,,75.2
+501523,Donggala,tmin,Min temperature,202406201200,,24
+501523,Donggala,tmin,Min temperature,202406201200,,75.2
+501523,Donggala,t,Temperature,202406180000,,26
+501523,Donggala,t,Temperature,202406180000,,78.8
+501523,Donggala,t,Temperature,202406180600,,28
+501523,Donggala,t,Temperature,202406180600,,82.4
+501523,Donggala,t,Temperature,202406181200,,27
+501523,Donggala,t,Temperature,202406181200,,80.6
+501523,Donggala,t,Temperature,202406181800,,24
+501523,Donggala,t,Temperature,202406181800,,75.2
+501523,Donggala,t,Temperature,202406190000,,25
+501523,Donggala,t,Temperature,202406190000,,77
+501523,Donggala,t,Temperature,202406190600,,26
+501523,Donggala,t,Temperature,202406190600,,78.8
+501523,Donggala,t,Temperature,202406191200,,25
+501523,Donggala,t,Temperature,202406191200,,77
+501523,Donggala,t,Temperature,202406191800,,24
+501523,Donggala,t,Temperature,202406191800,,75.2
+501523,Donggala,t,Temperature,202406200000,,26
+501523,Donggala,t,Temperature,202406200000,,78.8
+501523,Donggala,t,Temperature,202406200600,,29
+501523,Donggala,t,Temperature,202406200600,,84.2
+501523,Donggala,t,Temperature,202406201200,,27
+501523,Donggala,t,Temperature,202406201200,,80.6
+501523,Donggala,t,Temperature,202406201800,,25
+501523,Donggala,t,Temperature,202406201800,,77
+501523,Donggala,weather,Weather,202406180000,,60
+501523,Donggala,weather,Weather,202406180600,,95
+501523,Donggala,weather,Weather,202406181200,,60
+501523,Donggala,weather,Weather,202406181800,,60
+501523,Donggala,weather,Weather,202406190000,,60
+501523,Donggala,weather,Weather,202406190600,,60
+501523,Donggala,weather,Weather,202406191200,,3
+501523,Donggala,weather,Weather,202406191800,,1
+501523,Donggala,weather,Weather,202406200000,,1
+501523,Donggala,weather,Weather,202406200600,,1
+501523,Donggala,weather,Weather,202406201200,,1
+501523,Donggala,weather,Weather,202406201800,,3
+501523,Donggala,wd,Wind direction,202406180000,,0
+501523,Donggala,wd,Wind direction,202406180000,,VARIABLE
+501523,Donggala,wd,Wind direction,202406180000,,000
+501523,Donggala,wd,Wind direction,202406180600,,315
+501523,Donggala,wd,Wind direction,202406180600,,NW
+501523,Donggala,wd,Wind direction,202406180600,,31500
+501523,Donggala,wd,Wind direction,202406181200,,0
+501523,Donggala,wd,Wind direction,202406181200,,VARIABLE
+501523,Donggala,wd,Wind direction,202406181200,,000
+501523,Donggala,wd,Wind direction,202406181800,,202.5
+501523,Donggala,wd,Wind direction,202406181800,,SSW
+501523,Donggala,wd,Wind direction,202406181800,,20230
+501523,Donggala,wd,Wind direction,202406190000,,90
+501523,Donggala,wd,Wind direction,202406190000,,E
+501523,Donggala,wd,Wind direction,202406190000,,9000
+501523,Donggala,wd,Wind direction,202406190600,,292.5
+501523,Donggala,wd,Wind direction,202406190600,,WNW
+501523,Donggala,wd,Wind direction,202406190600,,29230
+501523,Donggala,wd,Wind direction,202406191200,,90
+501523,Donggala,wd,Wind direction,202406191200,,E
+501523,Donggala,wd,Wind direction,202406191200,,9000
+501523,Donggala,wd,Wind direction,202406191800,,135
+501523,Donggala,wd,Wind direction,202406191800,,SE
+501523,Donggala,wd,Wind direction,202406191800,,13500
+501523,Donggala,wd,Wind direction,202406200000,,135
+501523,Donggala,wd,Wind direction,202406200000,,SE
+501523,Donggala,wd,Wind direction,202406200000,,13500
+501523,Donggala,wd,Wind direction,202406200600,,315
+501523,Donggala,wd,Wind direction,202406200600,,NW
+501523,Donggala,wd,Wind direction,202406200600,,31500
+501523,Donggala,wd,Wind direction,202406201200,,45
+501523,Donggala,wd,Wind direction,202406201200,,NE
+501523,Donggala,wd,Wind direction,202406201200,,4500
+501523,Donggala,wd,Wind direction,202406201800,,0
+501523,Donggala,wd,Wind direction,202406201800,,VARIABLE
+501523,Donggala,wd,Wind direction,202406201800,,000
+501523,Donggala,ws,Wind speed,202406180000,,0
+501523,Donggala,ws,Wind speed,202406180000,,0
+501523,Donggala,ws,Wind speed,202406180000,,0
+501523,Donggala,ws,Wind speed,202406180000,,0
+501523,Donggala,ws,Wind speed,202406180600,,5
+501523,Donggala,ws,Wind speed,202406180600,,5.75389725
+501523,Donggala,ws,Wind speed,202406180600,,9.26
+501523,Donggala,ws,Wind speed,202406180600,,2.57222222
+501523,Donggala,ws,Wind speed,202406181200,,0
+501523,Donggala,ws,Wind speed,202406181200,,0
+501523,Donggala,ws,Wind speed,202406181200,,0
+501523,Donggala,ws,Wind speed,202406181200,,0
+501523,Donggala,ws,Wind speed,202406181800,,2
+501523,Donggala,ws,Wind speed,202406181800,,2.3015589
+501523,Donggala,ws,Wind speed,202406181800,,3.704
+501523,Donggala,ws,Wind speed,202406181800,,1.028888888
+501523,Donggala,ws,Wind speed,202406190000,,5
+501523,Donggala,ws,Wind speed,202406190000,,5.75389725
+501523,Donggala,ws,Wind speed,202406190000,,9.26
+501523,Donggala,ws,Wind speed,202406190000,,2.57222222
+501523,Donggala,ws,Wind speed,202406190600,,5
+501523,Donggala,ws,Wind speed,202406190600,,5.75389725
+501523,Donggala,ws,Wind speed,202406190600,,9.26
+501523,Donggala,ws,Wind speed,202406190600,,2.57222222
+501523,Donggala,ws,Wind speed,202406191200,,2
+501523,Donggala,ws,Wind speed,202406191200,,2.3015589
+501523,Donggala,ws,Wind speed,202406191200,,3.704
+501523,Donggala,ws,Wind speed,202406191200,,1.028888888
+501523,Donggala,ws,Wind speed,202406191800,,5
+501523,Donggala,ws,Wind speed,202406191800,,5.75389725
+501523,Donggala,ws,Wind speed,202406191800,,9.26
+501523,Donggala,ws,Wind speed,202406191800,,2.57222222
+501523,Donggala,ws,Wind speed,202406200000,,2
+501523,Donggala,ws,Wind speed,202406200000,,2.3015589
+501523,Donggala,ws,Wind speed,202406200000,,3.704
+501523,Donggala,ws,Wind speed,202406200000,,1.028888888
+501523,Donggala,ws,Wind speed,202406200600,,5
+501523,Donggala,ws,Wind speed,202406200600,,5.75389725
+501523,Donggala,ws,Wind speed,202406200600,,9.26
+501523,Donggala,ws,Wind speed,202406200600,,2.57222222
+501523,Donggala,ws,Wind speed,202406201200,,2
+501523,Donggala,ws,Wind speed,202406201200,,2.3015589
+501523,Donggala,ws,Wind speed,202406201200,,3.704
+501523,Donggala,ws,Wind speed,202406201200,,1.028888888
+501523,Donggala,ws,Wind speed,202406201800,,0
+501523,Donggala,ws,Wind speed,202406201800,,0
+501523,Donggala,ws,Wind speed,202406201800,,0
+501523,Donggala,ws,Wind speed,202406201800,,0
+501524,Luwuk,hu,Humidity,202406180000,,95
+501524,Luwuk,hu,Humidity,202406180600,,85
+501524,Luwuk,hu,Humidity,202406181200,,95
+501524,Luwuk,hu,Humidity,202406181800,,95
+501524,Luwuk,hu,Humidity,202406190000,,100
+501524,Luwuk,hu,Humidity,202406190600,,95
+501524,Luwuk,hu,Humidity,202406191200,,95
+501524,Luwuk,hu,Humidity,202406191800,,95
+501524,Luwuk,hu,Humidity,202406200000,,90
+501524,Luwuk,hu,Humidity,202406200600,,90
+501524,Luwuk,hu,Humidity,202406201200,,95
+501524,Luwuk,hu,Humidity,202406201800,,95
+501524,Luwuk,humax,Max humidity,202406181200,,95
+501524,Luwuk,humax,Max humidity,202406191200,,100
+501524,Luwuk,humax,Max humidity,202406201200,,95
+501524,Luwuk,tmax,Max temperature,202406181200,,25
+501524,Luwuk,tmax,Max temperature,202406181200,,77
+501524,Luwuk,tmax,Max temperature,202406191200,,23
+501524,Luwuk,tmax,Max temperature,202406191200,,73.4
+501524,Luwuk,tmax,Max temperature,202406201200,,24
+501524,Luwuk,tmax,Max temperature,202406201200,,75.2
+501524,Luwuk,humin,Min humidity,202406181200,,85
+501524,Luwuk,humin,Min humidity,202406191200,,90
+501524,Luwuk,humin,Min humidity,202406201200,,90
+501524,Luwuk,tmin,Min temperature,202406181200,,22
+501524,Luwuk,tmin,Min temperature,202406181200,,71.6
+501524,Luwuk,tmin,Min temperature,202406191200,,21
+501524,Luwuk,tmin,Min temperature,202406191200,,69.8
+501524,Luwuk,tmin,Min temperature,202406201200,,22
+501524,Luwuk,tmin,Min temperature,202406201200,,71.6
+501524,Luwuk,t,Temperature,202406180000,,23
+501524,Luwuk,t,Temperature,202406180000,,73.4
+501524,Luwuk,t,Temperature,202406180600,,25
+501524,Luwuk,t,Temperature,202406180600,,77
+501524,Luwuk,t,Temperature,202406181200,,22
+501524,Luwuk,t,Temperature,202406181200,,71.6
+501524,Luwuk,t,Temperature,202406181800,,22
+501524,Luwuk,t,Temperature,202406181800,,71.6
+501524,Luwuk,t,Temperature,202406190000,,22
+501524,Luwuk,t,Temperature,202406190000,,71.6
+501524,Luwuk,t,Temperature,202406190600,,23
+501524,Luwuk,t,Temperature,202406190600,,73.4
+501524,Luwuk,t,Temperature,202406191200,,22
+501524,Luwuk,t,Temperature,202406191200,,71.6
+501524,Luwuk,t,Temperature,202406191800,,22
+501524,Luwuk,t,Temperature,202406191800,,71.6
+501524,Luwuk,t,Temperature,202406200000,,23
+501524,Luwuk,t,Temperature,202406200000,,73.4
+501524,Luwuk,t,Temperature,202406200600,,24
+501524,Luwuk,t,Temperature,202406200600,,75.2
+501524,Luwuk,t,Temperature,202406201200,,22
+501524,Luwuk,t,Temperature,202406201200,,71.6
+501524,Luwuk,t,Temperature,202406201800,,22
+501524,Luwuk,t,Temperature,202406201800,,71.6
+501524,Luwuk,weather,Weather,202406180000,,4
+501524,Luwuk,weather,Weather,202406180600,,3
+501524,Luwuk,weather,Weather,202406181200,,3
+501524,Luwuk,weather,Weather,202406181800,,60
+501524,Luwuk,weather,Weather,202406190000,,95
+501524,Luwuk,weather,Weather,202406190600,,60
+501524,Luwuk,weather,Weather,202406191200,,60
+501524,Luwuk,weather,Weather,202406191800,,4
+501524,Luwuk,weather,Weather,202406200000,,60
+501524,Luwuk,weather,Weather,202406200600,,4
+501524,Luwuk,weather,Weather,202406201200,,3
+501524,Luwuk,weather,Weather,202406201800,,3
+501524,Luwuk,wd,Wind direction,202406180000,,270
+501524,Luwuk,wd,Wind direction,202406180000,,W
+501524,Luwuk,wd,Wind direction,202406180000,,27000
+501524,Luwuk,wd,Wind direction,202406180600,,225
+501524,Luwuk,wd,Wind direction,202406180600,,SW
+501524,Luwuk,wd,Wind direction,202406180600,,22500
+501524,Luwuk,wd,Wind direction,202406181200,,270
+501524,Luwuk,wd,Wind direction,202406181200,,W
+501524,Luwuk,wd,Wind direction,202406181200,,27000
+501524,Luwuk,wd,Wind direction,202406181800,,292.5
+501524,Luwuk,wd,Wind direction,202406181800,,WNW
+501524,Luwuk,wd,Wind direction,202406181800,,29230
+501524,Luwuk,wd,Wind direction,202406190000,,270
+501524,Luwuk,wd,Wind direction,202406190000,,W
+501524,Luwuk,wd,Wind direction,202406190000,,27000
+501524,Luwuk,wd,Wind direction,202406190600,,225
+501524,Luwuk,wd,Wind direction,202406190600,,SW
+501524,Luwuk,wd,Wind direction,202406190600,,22500
+501524,Luwuk,wd,Wind direction,202406191200,,315
+501524,Luwuk,wd,Wind direction,202406191200,,NW
+501524,Luwuk,wd,Wind direction,202406191200,,31500
+501524,Luwuk,wd,Wind direction,202406191800,,292.5
+501524,Luwuk,wd,Wind direction,202406191800,,WNW
+501524,Luwuk,wd,Wind direction,202406191800,,29230
+501524,Luwuk,wd,Wind direction,202406200000,,247.5
+501524,Luwuk,wd,Wind direction,202406200000,,WSW
+501524,Luwuk,wd,Wind direction,202406200000,,24730
+501524,Luwuk,wd,Wind direction,202406200600,,225
+501524,Luwuk,wd,Wind direction,202406200600,,SW
+501524,Luwuk,wd,Wind direction,202406200600,,22500
+501524,Luwuk,wd,Wind direction,202406201200,,292.5
+501524,Luwuk,wd,Wind direction,202406201200,,WNW
+501524,Luwuk,wd,Wind direction,202406201200,,29230
+501524,Luwuk,wd,Wind direction,202406201800,,270
+501524,Luwuk,wd,Wind direction,202406201800,,W
+501524,Luwuk,wd,Wind direction,202406201800,,27000
+501524,Luwuk,ws,Wind speed,202406180000,,5
+501524,Luwuk,ws,Wind speed,202406180000,,5.75389725
+501524,Luwuk,ws,Wind speed,202406180000,,9.26
+501524,Luwuk,ws,Wind speed,202406180000,,2.57222222
+501524,Luwuk,ws,Wind speed,202406180600,,5
+501524,Luwuk,ws,Wind speed,202406180600,,5.75389725
+501524,Luwuk,ws,Wind speed,202406180600,,9.26
+501524,Luwuk,ws,Wind speed,202406180600,,2.57222222
+501524,Luwuk,ws,Wind speed,202406181200,,5
+501524,Luwuk,ws,Wind speed,202406181200,,5.75389725
+501524,Luwuk,ws,Wind speed,202406181200,,9.26
+501524,Luwuk,ws,Wind speed,202406181200,,2.57222222
+501524,Luwuk,ws,Wind speed,202406181800,,5
+501524,Luwuk,ws,Wind speed,202406181800,,5.75389725
+501524,Luwuk,ws,Wind speed,202406181800,,9.26
+501524,Luwuk,ws,Wind speed,202406181800,,2.57222222
+501524,Luwuk,ws,Wind speed,202406190000,,5
+501524,Luwuk,ws,Wind speed,202406190000,,5.75389725
+501524,Luwuk,ws,Wind speed,202406190000,,9.26
+501524,Luwuk,ws,Wind speed,202406190000,,2.57222222
+501524,Luwuk,ws,Wind speed,202406190600,,5
+501524,Luwuk,ws,Wind speed,202406190600,,5.75389725
+501524,Luwuk,ws,Wind speed,202406190600,,9.26
+501524,Luwuk,ws,Wind speed,202406190600,,2.57222222
+501524,Luwuk,ws,Wind speed,202406191200,,5
+501524,Luwuk,ws,Wind speed,202406191200,,5.75389725
+501524,Luwuk,ws,Wind speed,202406191200,,9.26
+501524,Luwuk,ws,Wind speed,202406191200,,2.57222222
+501524,Luwuk,ws,Wind speed,202406191800,,5
+501524,Luwuk,ws,Wind speed,202406191800,,5.75389725
+501524,Luwuk,ws,Wind speed,202406191800,,9.26
+501524,Luwuk,ws,Wind speed,202406191800,,2.57222222
+501524,Luwuk,ws,Wind speed,202406200000,,5
+501524,Luwuk,ws,Wind speed,202406200000,,5.75389725
+501524,Luwuk,ws,Wind speed,202406200000,,9.26
+501524,Luwuk,ws,Wind speed,202406200000,,2.57222222
+501524,Luwuk,ws,Wind speed,202406200600,,5
+501524,Luwuk,ws,Wind speed,202406200600,,5.75389725
+501524,Luwuk,ws,Wind speed,202406200600,,9.26
+501524,Luwuk,ws,Wind speed,202406200600,,2.57222222
+501524,Luwuk,ws,Wind speed,202406201200,,5
+501524,Luwuk,ws,Wind speed,202406201200,,5.75389725
+501524,Luwuk,ws,Wind speed,202406201200,,9.26
+501524,Luwuk,ws,Wind speed,202406201200,,2.57222222
+501524,Luwuk,ws,Wind speed,202406201800,,5
+501524,Luwuk,ws,Wind speed,202406201800,,5.75389725
+501524,Luwuk,ws,Wind speed,202406201800,,9.26
+501524,Luwuk,ws,Wind speed,202406201800,,2.57222222
+1200106,Palu,hu,Humidity,202406180000,,95
+1200106,Palu,hu,Humidity,202406180600,,70
+1200106,Palu,hu,Humidity,202406181200,,100
+1200106,Palu,hu,Humidity,202406181800,,100
+1200106,Palu,hu,Humidity,202406190000,,95
+1200106,Palu,hu,Humidity,202406190600,,90
+1200106,Palu,hu,Humidity,202406191200,,100
+1200106,Palu,hu,Humidity,202406191800,,95
+1200106,Palu,hu,Humidity,202406200000,,90
+1200106,Palu,hu,Humidity,202406200600,,70
+1200106,Palu,hu,Humidity,202406201200,,95
+1200106,Palu,hu,Humidity,202406201800,,95
+1200106,Palu,humax,Max humidity,202406181200,,100
+1200106,Palu,humax,Max humidity,202406191200,,100
+1200106,Palu,humax,Max humidity,202406201200,,95
+1200106,Palu,tmax,Max temperature,202406181200,,28
+1200106,Palu,tmax,Max temperature,202406181200,,82.4
+1200106,Palu,tmax,Max temperature,202406191200,,28
+1200106,Palu,tmax,Max temperature,202406191200,,82.4
+1200106,Palu,tmax,Max temperature,202406201200,,29
+1200106,Palu,tmax,Max temperature,202406201200,,84.2
+1200106,Palu,humin,Min humidity,202406181200,,70
+1200106,Palu,humin,Min humidity,202406191200,,75
+1200106,Palu,humin,Min humidity,202406201200,,70
+1200106,Palu,tmin,Min temperature,202406181200,,23
+1200106,Palu,tmin,Min temperature,202406181200,,73.4
+1200106,Palu,tmin,Min temperature,202406191200,,21
+1200106,Palu,tmin,Min temperature,202406191200,,69.8
+1200106,Palu,tmin,Min temperature,202406201200,,21
+1200106,Palu,tmin,Min temperature,202406201200,,69.8
+1200106,Palu,t,Temperature,202406180000,,23
+1200106,Palu,t,Temperature,202406180000,,73.4
+1200106,Palu,t,Temperature,202406180600,,28
+1200106,Palu,t,Temperature,202406180600,,82.4
+1200106,Palu,t,Temperature,202406181200,,23
+1200106,Palu,t,Temperature,202406181200,,73.4
+1200106,Palu,t,Temperature,202406181800,,22
+1200106,Palu,t,Temperature,202406181800,,71.6
+1200106,Palu,t,Temperature,202406190000,,22
+1200106,Palu,t,Temperature,202406190000,,71.6
+1200106,Palu,t,Temperature,202406190600,,24
+1200106,Palu,t,Temperature,202406190600,,75.2
+1200106,Palu,t,Temperature,202406191200,,23
+1200106,Palu,t,Temperature,202406191200,,73.4
+1200106,Palu,t,Temperature,202406191800,,21
+1200106,Palu,t,Temperature,202406191800,,69.8
+1200106,Palu,t,Temperature,202406200000,,23
+1200106,Palu,t,Temperature,202406200000,,73.4
+1200106,Palu,t,Temperature,202406200600,,29
+1200106,Palu,t,Temperature,202406200600,,84.2
+1200106,Palu,t,Temperature,202406201200,,24
+1200106,Palu,t,Temperature,202406201200,,75.2
+1200106,Palu,t,Temperature,202406201800,,22
+1200106,Palu,t,Temperature,202406201800,,71.6
+1200106,Palu,weather,Weather,202406180000,,60
+1200106,Palu,weather,Weather,202406180600,,60
+1200106,Palu,weather,Weather,202406181200,,3
+1200106,Palu,weather,Weather,202406181800,,95
+1200106,Palu,weather,Weather,202406190000,,60
+1200106,Palu,weather,Weather,202406190600,,95
+1200106,Palu,weather,Weather,202406191200,,60
+1200106,Palu,weather,Weather,202406191800,,1
+1200106,Palu,weather,Weather,202406200000,,1
+1200106,Palu,weather,Weather,202406200600,,1
+1200106,Palu,weather,Weather,202406201200,,3
+1200106,Palu,weather,Weather,202406201800,,1
+1200106,Palu,wd,Wind direction,202406180000,,0
+1200106,Palu,wd,Wind direction,202406180000,,VARIABLE
+1200106,Palu,wd,Wind direction,202406180000,,000
+1200106,Palu,wd,Wind direction,202406180600,,22.5
+1200106,Palu,wd,Wind direction,202406180600,,NNE
+1200106,Palu,wd,Wind direction,202406180600,,2230
+1200106,Palu,wd,Wind direction,202406181200,,337.5
+1200106,Palu,wd,Wind direction,202406181200,,NNW
+1200106,Palu,wd,Wind direction,202406181200,,33730
+1200106,Palu,wd,Wind direction,202406181800,,0
+1200106,Palu,wd,Wind direction,202406181800,,VARIABLE
+1200106,Palu,wd,Wind direction,202406181800,,000
+1200106,Palu,wd,Wind direction,202406190000,,202.5
+1200106,Palu,wd,Wind direction,202406190000,,SSW
+1200106,Palu,wd,Wind direction,202406190000,,20230
+1200106,Palu,wd,Wind direction,202406190600,,22.5
+1200106,Palu,wd,Wind direction,202406190600,,NNE
+1200106,Palu,wd,Wind direction,202406190600,,2230
+1200106,Palu,wd,Wind direction,202406191200,,0
+1200106,Palu,wd,Wind direction,202406191200,,VARIABLE
+1200106,Palu,wd,Wind direction,202406191200,,000
+1200106,Palu,wd,Wind direction,202406191800,,180
+1200106,Palu,wd,Wind direction,202406191800,,S
+1200106,Palu,wd,Wind direction,202406191800,,18000
+1200106,Palu,wd,Wind direction,202406200000,,0
+1200106,Palu,wd,Wind direction,202406200000,,VARIABLE
+1200106,Palu,wd,Wind direction,202406200000,,000
+1200106,Palu,wd,Wind direction,202406200600,,0
+1200106,Palu,wd,Wind direction,202406200600,,VARIABLE
+1200106,Palu,wd,Wind direction,202406200600,,000
+1200106,Palu,wd,Wind direction,202406201200,,0
+1200106,Palu,wd,Wind direction,202406201200,,VARIABLE
+1200106,Palu,wd,Wind direction,202406201200,,000
+1200106,Palu,wd,Wind direction,202406201800,,135
+1200106,Palu,wd,Wind direction,202406201800,,SE
+1200106,Palu,wd,Wind direction,202406201800,,13500
+1200106,Palu,ws,Wind speed,202406180000,,0
+1200106,Palu,ws,Wind speed,202406180000,,0
+1200106,Palu,ws,Wind speed,202406180000,,0
+1200106,Palu,ws,Wind speed,202406180000,,0
+1200106,Palu,ws,Wind speed,202406180600,,5
+1200106,Palu,ws,Wind speed,202406180600,,5.75389725
+1200106,Palu,ws,Wind speed,202406180600,,9.26
+1200106,Palu,ws,Wind speed,202406180600,,2.57222222
+1200106,Palu,ws,Wind speed,202406181200,,2
+1200106,Palu,ws,Wind speed,202406181200,,2.3015589
+1200106,Palu,ws,Wind speed,202406181200,,3.704
+1200106,Palu,ws,Wind speed,202406181200,,1.028888888
+1200106,Palu,ws,Wind speed,202406181800,,0
+1200106,Palu,ws,Wind speed,202406181800,,0
+1200106,Palu,ws,Wind speed,202406181800,,0
+1200106,Palu,ws,Wind speed,202406181800,,0
+1200106,Palu,ws,Wind speed,202406190000,,2
+1200106,Palu,ws,Wind speed,202406190000,,2.3015589
+1200106,Palu,ws,Wind speed,202406190000,,3.704
+1200106,Palu,ws,Wind speed,202406190000,,1.028888888
+1200106,Palu,ws,Wind speed,202406190600,,2
+1200106,Palu,ws,Wind speed,202406190600,,2.3015589
+1200106,Palu,ws,Wind speed,202406190600,,3.704
+1200106,Palu,ws,Wind speed,202406190600,,1.028888888
+1200106,Palu,ws,Wind speed,202406191200,,0
+1200106,Palu,ws,Wind speed,202406191200,,0
+1200106,Palu,ws,Wind speed,202406191200,,0
+1200106,Palu,ws,Wind speed,202406191200,,0
+1200106,Palu,ws,Wind speed,202406191800,,2
+1200106,Palu,ws,Wind speed,202406191800,,2.3015589
+1200106,Palu,ws,Wind speed,202406191800,,3.704
+1200106,Palu,ws,Wind speed,202406191800,,1.028888888
+1200106,Palu,ws,Wind speed,202406200000,,0
+1200106,Palu,ws,Wind speed,202406200000,,0
+1200106,Palu,ws,Wind speed,202406200000,,0
+1200106,Palu,ws,Wind speed,202406200000,,0
+1200106,Palu,ws,Wind speed,202406200600,,0
+1200106,Palu,ws,Wind speed,202406200600,,0
+1200106,Palu,ws,Wind speed,202406200600,,0
+1200106,Palu,ws,Wind speed,202406200600,,0
+1200106,Palu,ws,Wind speed,202406201200,,0
+1200106,Palu,ws,Wind speed,202406201200,,0
+1200106,Palu,ws,Wind speed,202406201200,,0
+1200106,Palu,ws,Wind speed,202406201200,,0
+1200106,Palu,ws,Wind speed,202406201800,,2
+1200106,Palu,ws,Wind speed,202406201800,,2.3015589
+1200106,Palu,ws,Wind speed,202406201800,,3.704
+1200106,Palu,ws,Wind speed,202406201800,,1.028888888
+501526,Parigi,hu,Humidity,202406180000,,95
+501526,Parigi,hu,Humidity,202406180600,,85
+501526,Parigi,hu,Humidity,202406181200,,90
+501526,Parigi,hu,Humidity,202406181800,,95
+501526,Parigi,hu,Humidity,202406190000,,95
+501526,Parigi,hu,Humidity,202406190600,,90
+501526,Parigi,hu,Humidity,202406191200,,90
+501526,Parigi,hu,Humidity,202406191800,,90
+501526,Parigi,hu,Humidity,202406200000,,90
+501526,Parigi,hu,Humidity,202406200600,,85
+501526,Parigi,hu,Humidity,202406201200,,85
+501526,Parigi,hu,Humidity,202406201800,,85
+501526,Parigi,humax,Max humidity,202406181200,,95
+501526,Parigi,humax,Max humidity,202406191200,,95
+501526,Parigi,humax,Max humidity,202406201200,,90
+501526,Parigi,tmax,Max temperature,202406181200,,27
+501526,Parigi,tmax,Max temperature,202406181200,,80.6
+501526,Parigi,tmax,Max temperature,202406191200,,26
+501526,Parigi,tmax,Max temperature,202406191200,,78.8
+501526,Parigi,tmax,Max temperature,202406201200,,27
+501526,Parigi,tmax,Max temperature,202406201200,,80.6
+501526,Parigi,humin,Min humidity,202406181200,,85
+501526,Parigi,humin,Min humidity,202406191200,,85
+501526,Parigi,humin,Min humidity,202406201200,,85
+501526,Parigi,tmin,Min temperature,202406181200,,23
+501526,Parigi,tmin,Min temperature,202406181200,,73.4
+501526,Parigi,tmin,Min temperature,202406191200,,24
+501526,Parigi,tmin,Min temperature,202406191200,,75.2
+501526,Parigi,tmin,Min temperature,202406201200,,23
+501526,Parigi,tmin,Min temperature,202406201200,,73.4
+501526,Parigi,t,Temperature,202406180000,,24
+501526,Parigi,t,Temperature,202406180000,,75.2
+501526,Parigi,t,Temperature,202406180600,,27
+501526,Parigi,t,Temperature,202406180600,,80.6
+501526,Parigi,t,Temperature,202406181200,,25
+501526,Parigi,t,Temperature,202406181200,,77
+501526,Parigi,t,Temperature,202406181800,,24
+501526,Parigi,t,Temperature,202406181800,,75.2
+501526,Parigi,t,Temperature,202406190000,,25
+501526,Parigi,t,Temperature,202406190000,,77
+501526,Parigi,t,Temperature,202406190600,,26
+501526,Parigi,t,Temperature,202406190600,,78.8
+501526,Parigi,t,Temperature,202406191200,,24
+501526,Parigi,t,Temperature,202406191200,,75.2
+501526,Parigi,t,Temperature,202406191800,,24
+501526,Parigi,t,Temperature,202406191800,,75.2
+501526,Parigi,t,Temperature,202406200000,,25
+501526,Parigi,t,Temperature,202406200000,,77
+501526,Parigi,t,Temperature,202406200600,,27
+501526,Parigi,t,Temperature,202406200600,,80.6
+501526,Parigi,t,Temperature,202406201200,,26
+501526,Parigi,t,Temperature,202406201200,,78.8
+501526,Parigi,t,Temperature,202406201800,,24
+501526,Parigi,t,Temperature,202406201800,,75.2
+501526,Parigi,weather,Weather,202406180000,,95
+501526,Parigi,weather,Weather,202406180600,,60
+501526,Parigi,weather,Weather,202406181200,,3
+501526,Parigi,weather,Weather,202406181800,,60
+501526,Parigi,weather,Weather,202406190000,,60
+501526,Parigi,weather,Weather,202406190600,,95
+501526,Parigi,weather,Weather,202406191200,,3
+501526,Parigi,weather,Weather,202406191800,,1
+501526,Parigi,weather,Weather,202406200000,,1
+501526,Parigi,weather,Weather,202406200600,,1
+501526,Parigi,weather,Weather,202406201200,,1
+501526,Parigi,weather,Weather,202406201800,,1
+501526,Parigi,wd,Wind direction,202406180000,,0
+501526,Parigi,wd,Wind direction,202406180000,,VARIABLE
+501526,Parigi,wd,Wind direction,202406180000,,000
+501526,Parigi,wd,Wind direction,202406180600,,45
+501526,Parigi,wd,Wind direction,202406180600,,NE
+501526,Parigi,wd,Wind direction,202406180600,,4500
+501526,Parigi,wd,Wind direction,202406181200,,0
+501526,Parigi,wd,Wind direction,202406181200,,VARIABLE
+501526,Parigi,wd,Wind direction,202406181200,,000
+501526,Parigi,wd,Wind direction,202406181800,,315
+501526,Parigi,wd,Wind direction,202406181800,,NW
+501526,Parigi,wd,Wind direction,202406181800,,31500
+501526,Parigi,wd,Wind direction,202406190000,,45
+501526,Parigi,wd,Wind direction,202406190000,,NE
+501526,Parigi,wd,Wind direction,202406190000,,4500
+501526,Parigi,wd,Wind direction,202406190600,,45
+501526,Parigi,wd,Wind direction,202406190600,,NE
+501526,Parigi,wd,Wind direction,202406190600,,4500
+501526,Parigi,wd,Wind direction,202406191200,,112.5
+501526,Parigi,wd,Wind direction,202406191200,,ESE
+501526,Parigi,wd,Wind direction,202406191200,,11230
+501526,Parigi,wd,Wind direction,202406191800,,225
+501526,Parigi,wd,Wind direction,202406191800,,SW
+501526,Parigi,wd,Wind direction,202406191800,,22500
+501526,Parigi,wd,Wind direction,202406200000,,0
+501526,Parigi,wd,Wind direction,202406200000,,VARIABLE
+501526,Parigi,wd,Wind direction,202406200000,,000
+501526,Parigi,wd,Wind direction,202406200600,,45
+501526,Parigi,wd,Wind direction,202406200600,,NE
+501526,Parigi,wd,Wind direction,202406200600,,4500
+501526,Parigi,wd,Wind direction,202406201200,,0
+501526,Parigi,wd,Wind direction,202406201200,,VARIABLE
+501526,Parigi,wd,Wind direction,202406201200,,000
+501526,Parigi,wd,Wind direction,202406201800,,247.5
+501526,Parigi,wd,Wind direction,202406201800,,WSW
+501526,Parigi,wd,Wind direction,202406201800,,24730
+501526,Parigi,ws,Wind speed,202406180000,,0
+501526,Parigi,ws,Wind speed,202406180000,,0
+501526,Parigi,ws,Wind speed,202406180000,,0
+501526,Parigi,ws,Wind speed,202406180000,,0
+501526,Parigi,ws,Wind speed,202406180600,,5
+501526,Parigi,ws,Wind speed,202406180600,,5.75389725
+501526,Parigi,ws,Wind speed,202406180600,,9.26
+501526,Parigi,ws,Wind speed,202406180600,,2.57222222
+501526,Parigi,ws,Wind speed,202406181200,,0
+501526,Parigi,ws,Wind speed,202406181200,,0
+501526,Parigi,ws,Wind speed,202406181200,,0
+501526,Parigi,ws,Wind speed,202406181200,,0
+501526,Parigi,ws,Wind speed,202406181800,,5
+501526,Parigi,ws,Wind speed,202406181800,,5.75389725
+501526,Parigi,ws,Wind speed,202406181800,,9.26
+501526,Parigi,ws,Wind speed,202406181800,,2.57222222
+501526,Parigi,ws,Wind speed,202406190000,,2
+501526,Parigi,ws,Wind speed,202406190000,,2.3015589
+501526,Parigi,ws,Wind speed,202406190000,,3.704
+501526,Parigi,ws,Wind speed,202406190000,,1.028888888
+501526,Parigi,ws,Wind speed,202406190600,,5
+501526,Parigi,ws,Wind speed,202406190600,,5.75389725
+501526,Parigi,ws,Wind speed,202406190600,,9.26
+501526,Parigi,ws,Wind speed,202406190600,,2.57222222
+501526,Parigi,ws,Wind speed,202406191200,,2
+501526,Parigi,ws,Wind speed,202406191200,,2.3015589
+501526,Parigi,ws,Wind speed,202406191200,,3.704
+501526,Parigi,ws,Wind speed,202406191200,,1.028888888
+501526,Parigi,ws,Wind speed,202406191800,,2
+501526,Parigi,ws,Wind speed,202406191800,,2.3015589
+501526,Parigi,ws,Wind speed,202406191800,,3.704
+501526,Parigi,ws,Wind speed,202406191800,,1.028888888
+501526,Parigi,ws,Wind speed,202406200000,,0
+501526,Parigi,ws,Wind speed,202406200000,,0
+501526,Parigi,ws,Wind speed,202406200000,,0
+501526,Parigi,ws,Wind speed,202406200000,,0
+501526,Parigi,ws,Wind speed,202406200600,,5
+501526,Parigi,ws,Wind speed,202406200600,,5.75389725
+501526,Parigi,ws,Wind speed,202406200600,,9.26
+501526,Parigi,ws,Wind speed,202406200600,,2.57222222
+501526,Parigi,ws,Wind speed,202406201200,,0
+501526,Parigi,ws,Wind speed,202406201200,,0
+501526,Parigi,ws,Wind speed,202406201200,,0
+501526,Parigi,ws,Wind speed,202406201200,,0
+501526,Parigi,ws,Wind speed,202406201800,,2
+501526,Parigi,ws,Wind speed,202406201800,,2.3015589
+501526,Parigi,ws,Wind speed,202406201800,,3.704
+501526,Parigi,ws,Wind speed,202406201800,,1.028888888
+501527,Poso,hu,Humidity,202406180000,,85
+501527,Poso,hu,Humidity,202406180600,,75
+501527,Poso,hu,Humidity,202406181200,,80
+501527,Poso,hu,Humidity,202406181800,,85
+501527,Poso,hu,Humidity,202406190000,,85
+501527,Poso,hu,Humidity,202406190600,,75
+501527,Poso,hu,Humidity,202406191200,,85
+501527,Poso,hu,Humidity,202406191800,,85
+501527,Poso,hu,Humidity,202406200000,,80
+501527,Poso,hu,Humidity,202406200600,,70
+501527,Poso,hu,Humidity,202406201200,,80
+501527,Poso,hu,Humidity,202406201800,,80
+501527,Poso,humax,Max humidity,202406181200,,85
+501527,Poso,humax,Max humidity,202406191200,,90
+501527,Poso,humax,Max humidity,202406201200,,85
+501527,Poso,tmax,Max temperature,202406181200,,29
+501527,Poso,tmax,Max temperature,202406181200,,84.2
+501527,Poso,tmax,Max temperature,202406191200,,29
+501527,Poso,tmax,Max temperature,202406191200,,84.2
+501527,Poso,tmax,Max temperature,202406201200,,30
+501527,Poso,tmax,Max temperature,202406201200,,86
+501527,Poso,humin,Min humidity,202406181200,,75
+501527,Poso,humin,Min humidity,202406191200,,75
+501527,Poso,humin,Min humidity,202406201200,,70
+501527,Poso,tmin,Min temperature,202406181200,,24
+501527,Poso,tmin,Min temperature,202406181200,,75.2
+501527,Poso,tmin,Min temperature,202406191200,,26
+501527,Poso,tmin,Min temperature,202406191200,,78.8
+501527,Poso,tmin,Min temperature,202406201200,,25
+501527,Poso,tmin,Min temperature,202406201200,,77
+501527,Poso,t,Temperature,202406180000,,26
+501527,Poso,t,Temperature,202406180000,,78.8
+501527,Poso,t,Temperature,202406180600,,29
+501527,Poso,t,Temperature,202406180600,,84.2
+501527,Poso,t,Temperature,202406181200,,27
+501527,Poso,t,Temperature,202406181200,,80.6
+501527,Poso,t,Temperature,202406181800,,26
+501527,Poso,t,Temperature,202406181800,,78.8
+501527,Poso,t,Temperature,202406190000,,26
+501527,Poso,t,Temperature,202406190000,,78.8
+501527,Poso,t,Temperature,202406190600,,29
+501527,Poso,t,Temperature,202406190600,,84.2
+501527,Poso,t,Temperature,202406191200,,26
+501527,Poso,t,Temperature,202406191200,,78.8
+501527,Poso,t,Temperature,202406191800,,26
+501527,Poso,t,Temperature,202406191800,,78.8
+501527,Poso,t,Temperature,202406200000,,27
+501527,Poso,t,Temperature,202406200000,,80.6
+501527,Poso,t,Temperature,202406200600,,30
+501527,Poso,t,Temperature,202406200600,,86
+501527,Poso,t,Temperature,202406201200,,27
+501527,Poso,t,Temperature,202406201200,,80.6
+501527,Poso,t,Temperature,202406201800,,26
+501527,Poso,t,Temperature,202406201800,,78.8
+501527,Poso,weather,Weather,202406180000,,1
+501527,Poso,weather,Weather,202406180600,,1
+501527,Poso,weather,Weather,202406181200,,1
+501527,Poso,weather,Weather,202406181800,,3
+501527,Poso,weather,Weather,202406190000,,60
+501527,Poso,weather,Weather,202406190600,,60
+501527,Poso,weather,Weather,202406191200,,1
+501527,Poso,weather,Weather,202406191800,,3
+501527,Poso,weather,Weather,202406200000,,1
+501527,Poso,weather,Weather,202406200600,,0
+501527,Poso,weather,Weather,202406201200,,60
+501527,Poso,weather,Weather,202406201800,,1
+501527,Poso,wd,Wind direction,202406180000,,315
+501527,Poso,wd,Wind direction,202406180000,,NW
+501527,Poso,wd,Wind direction,202406180000,,31500
+501527,Poso,wd,Wind direction,202406180600,,0
+501527,Poso,wd,Wind direction,202406180600,,VARIABLE
+501527,Poso,wd,Wind direction,202406180600,,000
+501527,Poso,wd,Wind direction,202406181200,,112.5
+501527,Poso,wd,Wind direction,202406181200,,ESE
+501527,Poso,wd,Wind direction,202406181200,,11230
+501527,Poso,wd,Wind direction,202406181800,,0
+501527,Poso,wd,Wind direction,202406181800,,VARIABLE
+501527,Poso,wd,Wind direction,202406181800,,000
+501527,Poso,wd,Wind direction,202406190000,,270
+501527,Poso,wd,Wind direction,202406190000,,W
+501527,Poso,wd,Wind direction,202406190000,,27000
+501527,Poso,wd,Wind direction,202406190600,,337.5
+501527,Poso,wd,Wind direction,202406190600,,NNW
+501527,Poso,wd,Wind direction,202406190600,,33730
+501527,Poso,wd,Wind direction,202406191200,,112.5
+501527,Poso,wd,Wind direction,202406191200,,ESE
+501527,Poso,wd,Wind direction,202406191200,,11230
+501527,Poso,wd,Wind direction,202406191800,,135
+501527,Poso,wd,Wind direction,202406191800,,SE
+501527,Poso,wd,Wind direction,202406191800,,13500
+501527,Poso,wd,Wind direction,202406200000,,202.5
+501527,Poso,wd,Wind direction,202406200000,,SSW
+501527,Poso,wd,Wind direction,202406200000,,20230
+501527,Poso,wd,Wind direction,202406200600,,0
+501527,Poso,wd,Wind direction,202406200600,,VARIABLE
+501527,Poso,wd,Wind direction,202406200600,,000
+501527,Poso,wd,Wind direction,202406201200,,90
+501527,Poso,wd,Wind direction,202406201200,,E
+501527,Poso,wd,Wind direction,202406201200,,9000
+501527,Poso,wd,Wind direction,202406201800,,112.5
+501527,Poso,wd,Wind direction,202406201800,,ESE
+501527,Poso,wd,Wind direction,202406201800,,11230
+501527,Poso,ws,Wind speed,202406180000,,5
+501527,Poso,ws,Wind speed,202406180000,,5.75389725
+501527,Poso,ws,Wind speed,202406180000,,9.26
+501527,Poso,ws,Wind speed,202406180000,,2.57222222
+501527,Poso,ws,Wind speed,202406180600,,0
+501527,Poso,ws,Wind speed,202406180600,,0
+501527,Poso,ws,Wind speed,202406180600,,0
+501527,Poso,ws,Wind speed,202406180600,,0
+501527,Poso,ws,Wind speed,202406181200,,5
+501527,Poso,ws,Wind speed,202406181200,,5.75389725
+501527,Poso,ws,Wind speed,202406181200,,9.26
+501527,Poso,ws,Wind speed,202406181200,,2.57222222
+501527,Poso,ws,Wind speed,202406181800,,0
+501527,Poso,ws,Wind speed,202406181800,,0
+501527,Poso,ws,Wind speed,202406181800,,0
+501527,Poso,ws,Wind speed,202406181800,,0
+501527,Poso,ws,Wind speed,202406190000,,2
+501527,Poso,ws,Wind speed,202406190000,,2.3015589
+501527,Poso,ws,Wind speed,202406190000,,3.704
+501527,Poso,ws,Wind speed,202406190000,,1.028888888
+501527,Poso,ws,Wind speed,202406190600,,5
+501527,Poso,ws,Wind speed,202406190600,,5.75389725
+501527,Poso,ws,Wind speed,202406190600,,9.26
+501527,Poso,ws,Wind speed,202406190600,,2.57222222
+501527,Poso,ws,Wind speed,202406191200,,2
+501527,Poso,ws,Wind speed,202406191200,,2.3015589
+501527,Poso,ws,Wind speed,202406191200,,3.704
+501527,Poso,ws,Wind speed,202406191200,,1.028888888
+501527,Poso,ws,Wind speed,202406191800,,2
+501527,Poso,ws,Wind speed,202406191800,,2.3015589
+501527,Poso,ws,Wind speed,202406191800,,3.704
+501527,Poso,ws,Wind speed,202406191800,,1.028888888
+501527,Poso,ws,Wind speed,202406200000,,2
+501527,Poso,ws,Wind speed,202406200000,,2.3015589
+501527,Poso,ws,Wind speed,202406200000,,3.704
+501527,Poso,ws,Wind speed,202406200000,,1.028888888
+501527,Poso,ws,Wind speed,202406200600,,0
+501527,Poso,ws,Wind speed,202406200600,,0
+501527,Poso,ws,Wind speed,202406200600,,0
+501527,Poso,ws,Wind speed,202406200600,,0
+501527,Poso,ws,Wind speed,202406201200,,5
+501527,Poso,ws,Wind speed,202406201200,,5.75389725
+501527,Poso,ws,Wind speed,202406201200,,9.26
+501527,Poso,ws,Wind speed,202406201200,,2.57222222
+501527,Poso,ws,Wind speed,202406201800,,2
+501527,Poso,ws,Wind speed,202406201800,,2.3015589
+501527,Poso,ws,Wind speed,202406201800,,3.704
+501527,Poso,ws,Wind speed,202406201800,,1.028888888
+501528,Salakan,hu,Humidity,202406180000,,90
+501528,Salakan,hu,Humidity,202406180600,,80
+501528,Salakan,hu,Humidity,202406181200,,90
+501528,Salakan,hu,Humidity,202406181800,,90
+501528,Salakan,hu,Humidity,202406190000,,90
+501528,Salakan,hu,Humidity,202406190600,,85
+501528,Salakan,hu,Humidity,202406191200,,85
+501528,Salakan,hu,Humidity,202406191800,,85
+501528,Salakan,hu,Humidity,202406200000,,75
+501528,Salakan,hu,Humidity,202406200600,,70
+501528,Salakan,hu,Humidity,202406201200,,80
+501528,Salakan,hu,Humidity,202406201800,,85
+501528,Salakan,humax,Max humidity,202406181200,,95
+501528,Salakan,humax,Max humidity,202406191200,,95
+501528,Salakan,humax,Max humidity,202406201200,,85
+501528,Salakan,tmax,Max temperature,202406181200,,27
+501528,Salakan,tmax,Max temperature,202406181200,,80.6
+501528,Salakan,tmax,Max temperature,202406191200,,26
+501528,Salakan,tmax,Max temperature,202406191200,,78.8
+501528,Salakan,tmax,Max temperature,202406201200,,27
+501528,Salakan,tmax,Max temperature,202406201200,,80.6
+501528,Salakan,humin,Min humidity,202406181200,,80
+501528,Salakan,humin,Min humidity,202406191200,,85
+501528,Salakan,humin,Min humidity,202406201200,,70
+501528,Salakan,tmin,Min temperature,202406181200,,23
+501528,Salakan,tmin,Min temperature,202406181200,,73.4
+501528,Salakan,tmin,Min temperature,202406191200,,24
+501528,Salakan,tmin,Min temperature,202406191200,,75.2
+501528,Salakan,tmin,Min temperature,202406201200,,25
+501528,Salakan,tmin,Min temperature,202406201200,,77
+501528,Salakan,t,Temperature,202406180000,,25
+501528,Salakan,t,Temperature,202406180000,,77
+501528,Salakan,t,Temperature,202406180600,,27
+501528,Salakan,t,Temperature,202406180600,,80.6
+501528,Salakan,t,Temperature,202406181200,,25
+501528,Salakan,t,Temperature,202406181200,,77
+501528,Salakan,t,Temperature,202406181800,,24
+501528,Salakan,t,Temperature,202406181800,,75.2
+501528,Salakan,t,Temperature,202406190000,,25
+501528,Salakan,t,Temperature,202406190000,,77
+501528,Salakan,t,Temperature,202406190600,,25
+501528,Salakan,t,Temperature,202406190600,,77
+501528,Salakan,t,Temperature,202406191200,,25
+501528,Salakan,t,Temperature,202406191200,,77
+501528,Salakan,t,Temperature,202406191800,,25
+501528,Salakan,t,Temperature,202406191800,,77
+501528,Salakan,t,Temperature,202406200000,,27
+501528,Salakan,t,Temperature,202406200000,,80.6
+501528,Salakan,t,Temperature,202406200600,,27
+501528,Salakan,t,Temperature,202406200600,,80.6
+501528,Salakan,t,Temperature,202406201200,,25
+501528,Salakan,t,Temperature,202406201200,,77
+501528,Salakan,t,Temperature,202406201800,,25
+501528,Salakan,t,Temperature,202406201800,,77
+501528,Salakan,weather,Weather,202406180000,,3
+501528,Salakan,weather,Weather,202406180600,,3
+501528,Salakan,weather,Weather,202406181200,,3
+501528,Salakan,weather,Weather,202406181800,,3
+501528,Salakan,weather,Weather,202406190000,,60
+501528,Salakan,weather,Weather,202406190600,,3
+501528,Salakan,weather,Weather,202406191200,,3
+501528,Salakan,weather,Weather,202406191800,,1
+501528,Salakan,weather,Weather,202406200000,,3
+501528,Salakan,weather,Weather,202406200600,,3
+501528,Salakan,weather,Weather,202406201200,,1
+501528,Salakan,weather,Weather,202406201800,,3
+501528,Salakan,wd,Wind direction,202406180000,,202.5
+501528,Salakan,wd,Wind direction,202406180000,,SSW
+501528,Salakan,wd,Wind direction,202406180000,,20230
+501528,Salakan,wd,Wind direction,202406180600,,180
+501528,Salakan,wd,Wind direction,202406180600,,S
+501528,Salakan,wd,Wind direction,202406180600,,18000
+501528,Salakan,wd,Wind direction,202406181200,,180
+501528,Salakan,wd,Wind direction,202406181200,,S
+501528,Salakan,wd,Wind direction,202406181200,,18000
+501528,Salakan,wd,Wind direction,202406181800,,180
+501528,Salakan,wd,Wind direction,202406181800,,S
+501528,Salakan,wd,Wind direction,202406181800,,18000
+501528,Salakan,wd,Wind direction,202406190000,,202.5
+501528,Salakan,wd,Wind direction,202406190000,,SSW
+501528,Salakan,wd,Wind direction,202406190000,,20230
+501528,Salakan,wd,Wind direction,202406190600,,180
+501528,Salakan,wd,Wind direction,202406190600,,S
+501528,Salakan,wd,Wind direction,202406190600,,18000
+501528,Salakan,wd,Wind direction,202406191200,,180
+501528,Salakan,wd,Wind direction,202406191200,,S
+501528,Salakan,wd,Wind direction,202406191200,,18000
+501528,Salakan,wd,Wind direction,202406191800,,202.5
+501528,Salakan,wd,Wind direction,202406191800,,SSW
+501528,Salakan,wd,Wind direction,202406191800,,20230
+501528,Salakan,wd,Wind direction,202406200000,,180
+501528,Salakan,wd,Wind direction,202406200000,,S
+501528,Salakan,wd,Wind direction,202406200000,,18000
+501528,Salakan,wd,Wind direction,202406200600,,180
+501528,Salakan,wd,Wind direction,202406200600,,S
+501528,Salakan,wd,Wind direction,202406200600,,18000
+501528,Salakan,wd,Wind direction,202406201200,,157.5
+501528,Salakan,wd,Wind direction,202406201200,,SSE
+501528,Salakan,wd,Wind direction,202406201200,,15730
+501528,Salakan,wd,Wind direction,202406201800,,202.5
+501528,Salakan,wd,Wind direction,202406201800,,SSW
+501528,Salakan,wd,Wind direction,202406201800,,20230
+501528,Salakan,ws,Wind speed,202406180000,,5
+501528,Salakan,ws,Wind speed,202406180000,,5.75389725
+501528,Salakan,ws,Wind speed,202406180000,,9.26
+501528,Salakan,ws,Wind speed,202406180000,,2.57222222
+501528,Salakan,ws,Wind speed,202406180600,,10
+501528,Salakan,ws,Wind speed,202406180600,,11.5077945
+501528,Salakan,ws,Wind speed,202406180600,,18.52
+501528,Salakan,ws,Wind speed,202406180600,,5.14444444
+501528,Salakan,ws,Wind speed,202406181200,,5
+501528,Salakan,ws,Wind speed,202406181200,,5.75389725
+501528,Salakan,ws,Wind speed,202406181200,,9.26
+501528,Salakan,ws,Wind speed,202406181200,,2.57222222
+501528,Salakan,ws,Wind speed,202406181800,,5
+501528,Salakan,ws,Wind speed,202406181800,,5.75389725
+501528,Salakan,ws,Wind speed,202406181800,,9.26
+501528,Salakan,ws,Wind speed,202406181800,,2.57222222
+501528,Salakan,ws,Wind speed,202406190000,,10
+501528,Salakan,ws,Wind speed,202406190000,,11.5077945
+501528,Salakan,ws,Wind speed,202406190000,,18.52
+501528,Salakan,ws,Wind speed,202406190000,,5.14444444
+501528,Salakan,ws,Wind speed,202406190600,,10
+501528,Salakan,ws,Wind speed,202406190600,,11.5077945
+501528,Salakan,ws,Wind speed,202406190600,,18.52
+501528,Salakan,ws,Wind speed,202406190600,,5.14444444
+501528,Salakan,ws,Wind speed,202406191200,,5
+501528,Salakan,ws,Wind speed,202406191200,,5.75389725
+501528,Salakan,ws,Wind speed,202406191200,,9.26
+501528,Salakan,ws,Wind speed,202406191200,,2.57222222
+501528,Salakan,ws,Wind speed,202406191800,,5
+501528,Salakan,ws,Wind speed,202406191800,,5.75389725
+501528,Salakan,ws,Wind speed,202406191800,,9.26
+501528,Salakan,ws,Wind speed,202406191800,,2.57222222
+501528,Salakan,ws,Wind speed,202406200000,,5
+501528,Salakan,ws,Wind speed,202406200000,,5.75389725
+501528,Salakan,ws,Wind speed,202406200000,,9.26
+501528,Salakan,ws,Wind speed,202406200000,,2.57222222
+501528,Salakan,ws,Wind speed,202406200600,,10
+501528,Salakan,ws,Wind speed,202406200600,,11.5077945
+501528,Salakan,ws,Wind speed,202406200600,,18.52
+501528,Salakan,ws,Wind speed,202406200600,,5.14444444
+501528,Salakan,ws,Wind speed,202406201200,,5
+501528,Salakan,ws,Wind speed,202406201200,,5.75389725
+501528,Salakan,ws,Wind speed,202406201200,,9.26
+501528,Salakan,ws,Wind speed,202406201200,,2.57222222
+501528,Salakan,ws,Wind speed,202406201800,,5
+501528,Salakan,ws,Wind speed,202406201800,,5.75389725
+501528,Salakan,ws,Wind speed,202406201800,,9.26
+501528,Salakan,ws,Wind speed,202406201800,,2.57222222
+5002257,Sigi Biromaru,hu,Humidity,202406180000,,95
+5002257,Sigi Biromaru,hu,Humidity,202406180600,,70
+5002257,Sigi Biromaru,hu,Humidity,202406181200,,100
+5002257,Sigi Biromaru,hu,Humidity,202406181800,,100
+5002257,Sigi Biromaru,hu,Humidity,202406190000,,95
+5002257,Sigi Biromaru,hu,Humidity,202406190600,,90
+5002257,Sigi Biromaru,hu,Humidity,202406191200,,100
+5002257,Sigi Biromaru,hu,Humidity,202406191800,,95
+5002257,Sigi Biromaru,hu,Humidity,202406200000,,90
+5002257,Sigi Biromaru,hu,Humidity,202406200600,,70
+5002257,Sigi Biromaru,hu,Humidity,202406201200,,95
+5002257,Sigi Biromaru,hu,Humidity,202406201800,,95
+5002257,Sigi Biromaru,humax,Max humidity,202406181200,,100
+5002257,Sigi Biromaru,humax,Max humidity,202406191200,,100
+5002257,Sigi Biromaru,humax,Max humidity,202406201200,,95
+5002257,Sigi Biromaru,tmax,Max temperature,202406181200,,28
+5002257,Sigi Biromaru,tmax,Max temperature,202406181200,,82.4
+5002257,Sigi Biromaru,tmax,Max temperature,202406191200,,28
+5002257,Sigi Biromaru,tmax,Max temperature,202406191200,,82.4
+5002257,Sigi Biromaru,tmax,Max temperature,202406201200,,29
+5002257,Sigi Biromaru,tmax,Max temperature,202406201200,,84.2
+5002257,Sigi Biromaru,humin,Min humidity,202406181200,,70
+5002257,Sigi Biromaru,humin,Min humidity,202406191200,,75
+5002257,Sigi Biromaru,humin,Min humidity,202406201200,,70
+5002257,Sigi Biromaru,tmin,Min temperature,202406181200,,23
+5002257,Sigi Biromaru,tmin,Min temperature,202406181200,,73.4
+5002257,Sigi Biromaru,tmin,Min temperature,202406191200,,21
+5002257,Sigi Biromaru,tmin,Min temperature,202406191200,,69.8
+5002257,Sigi Biromaru,tmin,Min temperature,202406201200,,21
+5002257,Sigi Biromaru,tmin,Min temperature,202406201200,,69.8
+5002257,Sigi Biromaru,t,Temperature,202406180000,,23
+5002257,Sigi Biromaru,t,Temperature,202406180000,,73.4
+5002257,Sigi Biromaru,t,Temperature,202406180600,,28
+5002257,Sigi Biromaru,t,Temperature,202406180600,,82.4
+5002257,Sigi Biromaru,t,Temperature,202406181200,,23
+5002257,Sigi Biromaru,t,Temperature,202406181200,,73.4
+5002257,Sigi Biromaru,t,Temperature,202406181800,,22
+5002257,Sigi Biromaru,t,Temperature,202406181800,,71.6
+5002257,Sigi Biromaru,t,Temperature,202406190000,,22
+5002257,Sigi Biromaru,t,Temperature,202406190000,,71.6
+5002257,Sigi Biromaru,t,Temperature,202406190600,,24
+5002257,Sigi Biromaru,t,Temperature,202406190600,,75.2
+5002257,Sigi Biromaru,t,Temperature,202406191200,,23
+5002257,Sigi Biromaru,t,Temperature,202406191200,,73.4
+5002257,Sigi Biromaru,t,Temperature,202406191800,,21
+5002257,Sigi Biromaru,t,Temperature,202406191800,,69.8
+5002257,Sigi Biromaru,t,Temperature,202406200000,,23
+5002257,Sigi Biromaru,t,Temperature,202406200000,,73.4
+5002257,Sigi Biromaru,t,Temperature,202406200600,,29
+5002257,Sigi Biromaru,t,Temperature,202406200600,,84.2
+5002257,Sigi Biromaru,t,Temperature,202406201200,,24
+5002257,Sigi Biromaru,t,Temperature,202406201200,,75.2
+5002257,Sigi Biromaru,t,Temperature,202406201800,,22
+5002257,Sigi Biromaru,t,Temperature,202406201800,,71.6
+5002257,Sigi Biromaru,weather,Weather,202406180000,,60
+5002257,Sigi Biromaru,weather,Weather,202406180600,,60
+5002257,Sigi Biromaru,weather,Weather,202406181200,,3
+5002257,Sigi Biromaru,weather,Weather,202406181800,,95
+5002257,Sigi Biromaru,weather,Weather,202406190000,,60
+5002257,Sigi Biromaru,weather,Weather,202406190600,,95
+5002257,Sigi Biromaru,weather,Weather,202406191200,,60
+5002257,Sigi Biromaru,weather,Weather,202406191800,,1
+5002257,Sigi Biromaru,weather,Weather,202406200000,,1
+5002257,Sigi Biromaru,weather,Weather,202406200600,,1
+5002257,Sigi Biromaru,weather,Weather,202406201200,,3
+5002257,Sigi Biromaru,weather,Weather,202406201800,,1
+5002257,Sigi Biromaru,wd,Wind direction,202406180000,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406180000,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406180000,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406180600,,22.5
+5002257,Sigi Biromaru,wd,Wind direction,202406180600,,NNE
+5002257,Sigi Biromaru,wd,Wind direction,202406180600,,2230
+5002257,Sigi Biromaru,wd,Wind direction,202406181200,,337.5
+5002257,Sigi Biromaru,wd,Wind direction,202406181200,,NNW
+5002257,Sigi Biromaru,wd,Wind direction,202406181200,,33730
+5002257,Sigi Biromaru,wd,Wind direction,202406181800,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406181800,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406181800,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406190000,,202.5
+5002257,Sigi Biromaru,wd,Wind direction,202406190000,,SSW
+5002257,Sigi Biromaru,wd,Wind direction,202406190000,,20230
+5002257,Sigi Biromaru,wd,Wind direction,202406190600,,22.5
+5002257,Sigi Biromaru,wd,Wind direction,202406190600,,NNE
+5002257,Sigi Biromaru,wd,Wind direction,202406190600,,2230
+5002257,Sigi Biromaru,wd,Wind direction,202406191200,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406191200,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406191200,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406191800,,180
+5002257,Sigi Biromaru,wd,Wind direction,202406191800,,S
+5002257,Sigi Biromaru,wd,Wind direction,202406191800,,18000
+5002257,Sigi Biromaru,wd,Wind direction,202406200000,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406200000,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406200000,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406200600,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406200600,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406200600,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406201200,,0
+5002257,Sigi Biromaru,wd,Wind direction,202406201200,,VARIABLE
+5002257,Sigi Biromaru,wd,Wind direction,202406201200,,000
+5002257,Sigi Biromaru,wd,Wind direction,202406201800,,135
+5002257,Sigi Biromaru,wd,Wind direction,202406201800,,SE
+5002257,Sigi Biromaru,wd,Wind direction,202406201800,,13500
+5002257,Sigi Biromaru,ws,Wind speed,202406180000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406180000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406180000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406180000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406180600,,5
+5002257,Sigi Biromaru,ws,Wind speed,202406180600,,5.75389725
+5002257,Sigi Biromaru,ws,Wind speed,202406180600,,9.26
+5002257,Sigi Biromaru,ws,Wind speed,202406180600,,2.57222222
+5002257,Sigi Biromaru,ws,Wind speed,202406181200,,2
+5002257,Sigi Biromaru,ws,Wind speed,202406181200,,2.3015589
+5002257,Sigi Biromaru,ws,Wind speed,202406181200,,3.704
+5002257,Sigi Biromaru,ws,Wind speed,202406181200,,1.028888888
+5002257,Sigi Biromaru,ws,Wind speed,202406181800,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406181800,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406181800,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406181800,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406190000,,2
+5002257,Sigi Biromaru,ws,Wind speed,202406190000,,2.3015589
+5002257,Sigi Biromaru,ws,Wind speed,202406190000,,3.704
+5002257,Sigi Biromaru,ws,Wind speed,202406190000,,1.028888888
+5002257,Sigi Biromaru,ws,Wind speed,202406190600,,2
+5002257,Sigi Biromaru,ws,Wind speed,202406190600,,2.3015589
+5002257,Sigi Biromaru,ws,Wind speed,202406190600,,3.704
+5002257,Sigi Biromaru,ws,Wind speed,202406190600,,1.028888888
+5002257,Sigi Biromaru,ws,Wind speed,202406191200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406191200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406191200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406191200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406191800,,2
+5002257,Sigi Biromaru,ws,Wind speed,202406191800,,2.3015589
+5002257,Sigi Biromaru,ws,Wind speed,202406191800,,3.704
+5002257,Sigi Biromaru,ws,Wind speed,202406191800,,1.028888888
+5002257,Sigi Biromaru,ws,Wind speed,202406200000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200000,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200600,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200600,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200600,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406200600,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406201200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406201200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406201200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406201200,,0
+5002257,Sigi Biromaru,ws,Wind speed,202406201800,,2
+5002257,Sigi Biromaru,ws,Wind speed,202406201800,,2.3015589
+5002257,Sigi Biromaru,ws,Wind speed,202406201800,,3.704
+5002257,Sigi Biromaru,ws,Wind speed,202406201800,,1.028888888
+501529,Toli Toli,hu,Humidity,202406180000,,90
+501529,Toli Toli,hu,Humidity,202406180600,,85
+501529,Toli Toli,hu,Humidity,202406181200,,95
+501529,Toli Toli,hu,Humidity,202406181800,,90
+501529,Toli Toli,hu,Humidity,202406190000,,90
+501529,Toli Toli,hu,Humidity,202406190600,,90
+501529,Toli Toli,hu,Humidity,202406191200,,95
+501529,Toli Toli,hu,Humidity,202406191800,,90
+501529,Toli Toli,hu,Humidity,202406200000,,95
+501529,Toli Toli,hu,Humidity,202406200600,,80
+501529,Toli Toli,hu,Humidity,202406201200,,95
+501529,Toli Toli,hu,Humidity,202406201800,,90
+501529,Toli Toli,humax,Max humidity,202406181200,,95
+501529,Toli Toli,humax,Max humidity,202406191200,,95
+501529,Toli Toli,humax,Max humidity,202406201200,,95
+501529,Toli Toli,tmax,Max temperature,202406181200,,27
+501529,Toli Toli,tmax,Max temperature,202406181200,,80.6
+501529,Toli Toli,tmax,Max temperature,202406191200,,25
+501529,Toli Toli,tmax,Max temperature,202406191200,,77
+501529,Toli Toli,tmax,Max temperature,202406201200,,27
+501529,Toli Toli,tmax,Max temperature,202406201200,,80.6
+501529,Toli Toli,humin,Min humidity,202406181200,,80
+501529,Toli Toli,humin,Min humidity,202406191200,,85
+501529,Toli Toli,humin,Min humidity,202406201200,,75
+501529,Toli Toli,tmin,Min temperature,202406181200,,22
+501529,Toli Toli,tmin,Min temperature,202406181200,,71.6
+501529,Toli Toli,tmin,Min temperature,202406191200,,21
+501529,Toli Toli,tmin,Min temperature,202406191200,,69.8
+501529,Toli Toli,tmin,Min temperature,202406201200,,21
+501529,Toli Toli,tmin,Min temperature,202406201200,,69.8
+501529,Toli Toli,t,Temperature,202406180000,,24
+501529,Toli Toli,t,Temperature,202406180000,,75.2
+501529,Toli Toli,t,Temperature,202406180600,,26
+501529,Toli Toli,t,Temperature,202406180600,,78.8
+501529,Toli Toli,t,Temperature,202406181200,,23
+501529,Toli Toli,t,Temperature,202406181200,,73.4
+501529,Toli Toli,t,Temperature,202406181800,,22
+501529,Toli Toli,t,Temperature,202406181800,,71.6
+501529,Toli Toli,t,Temperature,202406190000,,24
+501529,Toli Toli,t,Temperature,202406190000,,75.2
+501529,Toli Toli,t,Temperature,202406190600,,24
+501529,Toli Toli,t,Temperature,202406190600,,75.2
+501529,Toli Toli,t,Temperature,202406191200,,23
+501529,Toli Toli,t,Temperature,202406191200,,73.4
+501529,Toli Toli,t,Temperature,202406191800,,21
+501529,Toli Toli,t,Temperature,202406191800,,69.8
+501529,Toli Toli,t,Temperature,202406200000,,24
+501529,Toli Toli,t,Temperature,202406200000,,75.2
+501529,Toli Toli,t,Temperature,202406200600,,27
+501529,Toli Toli,t,Temperature,202406200600,,80.6
+501529,Toli Toli,t,Temperature,202406201200,,23
+501529,Toli Toli,t,Temperature,202406201200,,73.4
+501529,Toli Toli,t,Temperature,202406201800,,22
+501529,Toli Toli,t,Temperature,202406201800,,71.6
+501529,Toli Toli,weather,Weather,202406180000,,60
+501529,Toli Toli,weather,Weather,202406180600,,1
+501529,Toli Toli,weather,Weather,202406181200,,1
+501529,Toli Toli,weather,Weather,202406181800,,60
+501529,Toli Toli,weather,Weather,202406190000,,60
+501529,Toli Toli,weather,Weather,202406190600,,60
+501529,Toli Toli,weather,Weather,202406191200,,3
+501529,Toli Toli,weather,Weather,202406191800,,1
+501529,Toli Toli,weather,Weather,202406200000,,1
+501529,Toli Toli,weather,Weather,202406200600,,1
+501529,Toli Toli,weather,Weather,202406201200,,0
+501529,Toli Toli,weather,Weather,202406201800,,1
+501529,Toli Toli,wd,Wind direction,202406180000,,135
+501529,Toli Toli,wd,Wind direction,202406180000,,SE
+501529,Toli Toli,wd,Wind direction,202406180000,,13500
+501529,Toli Toli,wd,Wind direction,202406180600,,270
+501529,Toli Toli,wd,Wind direction,202406180600,,W
+501529,Toli Toli,wd,Wind direction,202406180600,,27000
+501529,Toli Toli,wd,Wind direction,202406181200,,0
+501529,Toli Toli,wd,Wind direction,202406181200,,VARIABLE
+501529,Toli Toli,wd,Wind direction,202406181200,,000
+501529,Toli Toli,wd,Wind direction,202406181800,,0
+501529,Toli Toli,wd,Wind direction,202406181800,,VARIABLE
+501529,Toli Toli,wd,Wind direction,202406181800,,000
+501529,Toli Toli,wd,Wind direction,202406190000,,247.5
+501529,Toli Toli,wd,Wind direction,202406190000,,WSW
+501529,Toli Toli,wd,Wind direction,202406190000,,24730
+501529,Toli Toli,wd,Wind direction,202406190600,,270
+501529,Toli Toli,wd,Wind direction,202406190600,,W
+501529,Toli Toli,wd,Wind direction,202406190600,,27000
+501529,Toli Toli,wd,Wind direction,202406191200,,67.5
+501529,Toli Toli,wd,Wind direction,202406191200,,ENE
+501529,Toli Toli,wd,Wind direction,202406191200,,6730
+501529,Toli Toli,wd,Wind direction,202406191800,,67.5
+501529,Toli Toli,wd,Wind direction,202406191800,,ENE
+501529,Toli Toli,wd,Wind direction,202406191800,,6730
+501529,Toli Toli,wd,Wind direction,202406200000,,0
+501529,Toli Toli,wd,Wind direction,202406200000,,VARIABLE
+501529,Toli Toli,wd,Wind direction,202406200000,,000
+501529,Toli Toli,wd,Wind direction,202406200600,,270
+501529,Toli Toli,wd,Wind direction,202406200600,,W
+501529,Toli Toli,wd,Wind direction,202406200600,,27000
+501529,Toli Toli,wd,Wind direction,202406201200,,67.5
+501529,Toli Toli,wd,Wind direction,202406201200,,ENE
+501529,Toli Toli,wd,Wind direction,202406201200,,6730
+501529,Toli Toli,wd,Wind direction,202406201800,,45
+501529,Toli Toli,wd,Wind direction,202406201800,,NE
+501529,Toli Toli,wd,Wind direction,202406201800,,4500
+501529,Toli Toli,ws,Wind speed,202406180000,,2
+501529,Toli Toli,ws,Wind speed,202406180000,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406180000,,3.704
+501529,Toli Toli,ws,Wind speed,202406180000,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406180600,,5
+501529,Toli Toli,ws,Wind speed,202406180600,,5.75389725
+501529,Toli Toli,ws,Wind speed,202406180600,,9.26
+501529,Toli Toli,ws,Wind speed,202406180600,,2.57222222
+501529,Toli Toli,ws,Wind speed,202406181200,,0
+501529,Toli Toli,ws,Wind speed,202406181200,,0
+501529,Toli Toli,ws,Wind speed,202406181200,,0
+501529,Toli Toli,ws,Wind speed,202406181200,,0
+501529,Toli Toli,ws,Wind speed,202406181800,,0
+501529,Toli Toli,ws,Wind speed,202406181800,,0
+501529,Toli Toli,ws,Wind speed,202406181800,,0
+501529,Toli Toli,ws,Wind speed,202406181800,,0
+501529,Toli Toli,ws,Wind speed,202406190000,,2
+501529,Toli Toli,ws,Wind speed,202406190000,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406190000,,3.704
+501529,Toli Toli,ws,Wind speed,202406190000,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406190600,,5
+501529,Toli Toli,ws,Wind speed,202406190600,,5.75389725
+501529,Toli Toli,ws,Wind speed,202406190600,,9.26
+501529,Toli Toli,ws,Wind speed,202406190600,,2.57222222
+501529,Toli Toli,ws,Wind speed,202406191200,,2
+501529,Toli Toli,ws,Wind speed,202406191200,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406191200,,3.704
+501529,Toli Toli,ws,Wind speed,202406191200,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406191800,,2
+501529,Toli Toli,ws,Wind speed,202406191800,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406191800,,3.704
+501529,Toli Toli,ws,Wind speed,202406191800,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406200000,,0
+501529,Toli Toli,ws,Wind speed,202406200000,,0
+501529,Toli Toli,ws,Wind speed,202406200000,,0
+501529,Toli Toli,ws,Wind speed,202406200000,,0
+501529,Toli Toli,ws,Wind speed,202406200600,,2
+501529,Toli Toli,ws,Wind speed,202406200600,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406200600,,3.704
+501529,Toli Toli,ws,Wind speed,202406200600,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406201200,,2
+501529,Toli Toli,ws,Wind speed,202406201200,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406201200,,3.704
+501529,Toli Toli,ws,Wind speed,202406201200,,1.028888888
+501529,Toli Toli,ws,Wind speed,202406201800,,2
+501529,Toli Toli,ws,Wind speed,202406201800,,2.3015589
+501529,Toli Toli,ws,Wind speed,202406201800,,3.704
+501529,Toli Toli,ws,Wind speed,202406201800,,1.028888888
